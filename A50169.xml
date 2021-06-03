@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thirty important cases, resolved with evidence of Scripture and reason (mostly) by several pastors of adjacent churches, meeting in Cambridge, New-England (with some other memorable matters) ; now published for general benefit.</title>
+         </titleStmt>
+         <extent>Approx. 111KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50169</idno><idno type="EEBO-CITATION">12424494</idno>
+  <idno type="VID">61798</idno>
+  <idno type="EEBO-PROQUEST">2240943128</idno>
+  
+            <idno type="STC">Wing M1160</idno>
+            <idno type="STC">ESTC R9937</idno>
+            <idno type="OCLC">12424494</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 283:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thirty important cases, resolved with evidence of Scripture and reason (mostly) by several pastors of adjacent churches, meeting in Cambridge, New-England (with some other memorable matters) ; now published for general benefit.</title>
+                  <author>Mather, Cotton, 1663-1728.</author>
+                  <author>Mather, Increase, 1639-1723.</author>
+               </titleStmt>
+               <extent>78, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Bartholomew Green &amp; John Allen ...,</publisher>
+                  <pubPlace>Boston in New England :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Advertisement" (p. 3-6) signed: Cotton Mather.</note>
+                  <note>"Certain proposals made by the president and fellows of Harvard College, to the reverend ministers of the gospel, in the several churches of New-England" (p. 71-73) signed and dated: Increase Mather [and others], Cambridge, March 5th, 1693/4.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+                  <note>Errata on p. [1] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Congregational churches --  Massachusetts.</term>
+               <term type="topical_term">Congregationalism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61798:1"/>
+            <pb facs="tcp:61798:1"/>
+            <p>Thirty Important CASES, Resolved With Evidence of Scripture AND Reason.</p>
+            <p>[Mostly,] By several Pastors of Adjacent Churches, meeting in CAMBRIDGE, NEW-ENGLAND.</p>
+            <p>[With some other memorable matters.]</p>
+            <p>
+               <hi>Now Published for General Benefit.</hi>
+            </p>
+            <p>
+               <hi>BOSTON</hi> in <hi>NEW ENGLAND.</hi>
+            </p>
+            <p>Printed by <hi>Bartholomew Green,</hi> &amp; <hi>John Allen</hi> Sold at the Book-sellers Shops. 1699.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:61798:2"/>
+            <pb n="3" facs="tcp:61798:2"/>
+            <head>Advertisement.</head>
+            <p>IT is a Considerable point in, <hi>The Heads of Agreement.</hi> lately Voted among the <hi>Uni<g ref="char:EOLhyphen"/>ted Ministers,,</hi> formerly called <hi>Presbyte<g ref="char:EOLhyphen"/>rian</hi> and <hi>Congregational,</hi> in the <hi>English Na<g ref="char:EOLhyphen"/>tion;</hi>
+               <q rend="margQuotes"> That the <hi>Pastors</hi> of Particular Churches ought to have frequent Meetings together, that by mutual Advice, Support, Encourage<g ref="char:EOLhyphen"/>ment, and Brotherly Intercourse, they may strengthen the Hearts and Hands of each other, in the wayes of the Lord; And, That the Particular Churches, their Respective El<g ref="char:EOLhyphen"/>ders and Members, ought to have a Reveren<g ref="char:EOLhyphen"/>tial Regard unto their Judgment.</q>
+            </p>
+            <p>The Ministers of <hi>Boston,</hi> and some Towns adjacent, than whom there are none more Hearty in the <hi>Union</hi> of their Brethren at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> thought it not enough to have their <hi>Occasi<g ref="char:EOLhyphen"/>onal Meetings,</hi> which they have still had, especi<g ref="char:EOLhyphen"/>ally a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter their <hi>Publick Lectures.</hi> They did therefore <hi>Octob.</hi> 13. 1690. in a more significant manner <hi>Associate</hi> themselves, for the promoting o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Gospel,</hi> and their mutual Assistance in the Service of it. They Resolved, That they
+<pb n="4" facs="tcp:61798:3"/> would Meet the <hi>First</hi> [or Second] <hi>Monday,</hi> of every Month [Except the Three <hi>W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oter</hi> Ones,] in the <hi>Library</hi> of <hi>Harvard Colledge,</hi> at <hi>Cambr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dge.</hi> Their <hi>Moderator</hi> they choose, <hi>pro Tempore;</hi> who <hi>Conclades</hi> the Convention, where<g ref="char:EOLhyphen"/>in he is Chosen, and <hi>Begins</hi> the next with <hi>Prayer. He</hi> propounds the Matters to be Do<g ref="char:EOLhyphen"/>bated, and Receives the Suffrages of the <hi>Bre<g ref="char:EOLhyphen"/>thren</hi> upon the Debates, in their <hi>Ascending Or<g ref="char:EOLhyphen"/>der. He</hi> Reserves the <hi>Papers</hi> belonging to the Assembly, and Appoin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s their Assembling upon any Emergencies. <hi>They</hi> all <hi>Subscribe</hi> the Rules of their <hi>Association,</hi> and may not Forsake it, or Neglect it, without giving a sufficient Reason for their doing so. <hi>They</hi> Advise each other with all Fraternal Charity, in their occurring Difficulties. <hi>They</hi> upon Hearing, offer what Advice they can to any that may from abroad in their Disticult Circumstances, repair unto them. When they have no <hi>Cases</hi> brought un<g ref="char:EOLhyphen"/>to them from others, they ordinarily provide some for Themselves: upon which, Every one having freely declared his mind, it is all summed up, in <hi>Propositions,</hi> which being Vo<g ref="char:EOLhyphen"/>ted, are then Entred in their <hi>Memorials.</hi> Be<g ref="char:EOLhyphen"/>hold, the Methods observed by an <hi>As<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ociation</hi> of Ministers, who without Assuming the least <hi>Authority</hi> unto themselves, over <hi>any others</hi> in the world, have been willing this way as well to st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>engthen <hi>thems<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ives</hi> in the Great Work of
+<pb n="5" facs="tcp:61798:3"/> Glorifying the Lord Jesus Christ, as with the hest of their Studies to oblige <hi>All others</hi> that may see cause to make use thereof.</p>
+            <p>Now, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th <hi>Associated Ministers,</hi> finding them<g ref="char:EOLhyphen"/>selves often called upon, by many abroad in the Countrey, to Answer over again, many <hi>Cases,</hi> which they have already Answered, they permitred <hi>me,</hi> (who am among the <hi>Seventeen, Minimus omnium <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Infimus merito,</hi>) to publish out of their <hi>Memorials,</hi> the CASES, here Ten<g ref="char:EOLhyphen"/>dered unto the publick. But, if they have consulted their own <hi>Ease,</hi> by this Publication, I easily soresee, that they have also made the more <hi>Work</hi> for themselves, by thus Encoura<g ref="char:EOLhyphen"/>ging more CASES to be brought unto them. And yet, rather for the <hi>Good</hi> of others, than their own <hi>Ease;</hi> I am certain, it will exceed<g ref="char:EOLhyphen"/>ingly Rejoyce them, if their Example may provoke the <hi>Ministers</hi> in other pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts of the Countrey, no longer to satissy themselves with <hi>Uncertain Visits</hi> unto each other, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in the most prositable manner their <hi>Discretion</hi> may direct them, to have their <hi>Stated Meetings,</hi> for the Help of each other, in the Assairs of the <hi>King<g ref="char:EOLhyphen"/>dom of God;</hi> and not let any little Differences, or Jealousies, or Sels-Conscious Irregularities, or, untreatable Morositi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, or any other <hi>Little<g ref="char:EOLhyphen"/>nesses</hi> in Conversation, hinder them from so <hi>Dwelling together,</hi> as to have the <hi>prectous Oyn<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment</hi> on the Head of our Great High Priest,
+<pb n="6" facs="tcp:61798:4"/>
+               <hi>running down</hi> upon them. The <hi>Wo to him that is Alone,,</hi> certainly may be prevented, by <hi>Sta<g ref="char:EOLhyphen"/>ted Meetings</hi> of our <hi>Pastors,</hi> and they may not only be sensible, that they have need enough often to be <hi>Together,</hi> but also spend their Time, <hi>ut qui sciant Dominum audire,</hi> when they are <hi>Together:</hi> without any danger of overwhelm<g ref="char:EOLhyphen"/>ing the <hi>Rights</hi> of <hi>Particular Churches,</hi> by <hi>Classi<g ref="char:EOLhyphen"/>cal</hi> Combinations. While our Famous <hi>HOOK<g ref="char:EOLhyphen"/>ER</hi> Lived, the <hi>Meetings</hi> of <hi>Pastors</hi> in their se<g ref="char:EOLhyphen"/>veral Vicinities, were mentained and cherished in the Colony of <hi>Connecticut,</hi> and managed with no little Advantage to all the Colony. And no doubt, more than the <hi>Massachusett.</hi> Pro<g ref="char:EOLhyphen"/>vince, may be Edified by the Effects of such <hi>Meetings</hi> therein, though they were no other, than what are Communicated in the Ensuing pages.</p>
+            <closer>
+               <signed>Cotton Mather.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="cases">
+            <pb n="7" facs="tcp:61798:4"/>
+            <div n="1" type="case">
+               <head>CASE 1. A QUESTION.</head>
+               <argument>
+                  <p>Whether the <hi>CHURCH COVENANT</hi> used in the Churches of New England, be of Divine Institution?</p>
+               </argument>
+               <p n="1">1. IT is to be Asserted, That there are particular <hi>Congregational Churches</hi> by Christ's Appointment, who are ordi<g ref="char:EOLhyphen"/>narily to <hi>meet together</hi> for Publick Worship, and mutual Edification.</p>
+               <p n="2">2. That there is a <hi>distinct Relation</hi> of Mem<g ref="char:EOLhyphen"/>bership, which persons bear to that <hi>Individual Society,</hi> which they bear not to other Christi<g ref="char:EOLhyphen"/>ans and Societies.</p>
+               <p n="3">3. That there is a power of <hi>Disciplin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> sea<g ref="char:EOLhyphen"/>ted by Christ in every such <hi>Organized Con<g ref="char:EOLhyphen"/>gregation.</hi>
+               </p>
+               <p n="4">4. That the <hi>Officers</hi> of such a Congregati<g ref="char:EOLhyphen"/>on, are so Officers to <hi>them,</hi> as they are <hi>not to any other.</hi>
+               </p>
+               <p n="5">5. That the <hi>Relation</hi> between the <hi>Officers</hi> and <hi>Members</hi> of such a <hi>Church,</hi> must be made by <hi>mutual Consent.</hi>
+               </p>
+               <p n="6">
+                  <pb n="8" facs="tcp:61798:5"/>6. That a person may belong to the <hi>Ca<g ref="char:EOLhyphen"/>tholick Visible Church,</hi> and yet not be a Mem<g ref="char:EOLhyphen"/>ber of a <hi>particular Constituted Church.</hi>
+               </p>
+               <p n="7">7. That there must be <hi>something</hi> that Con<g ref="char:EOLhyphen"/>stitutes <hi>this particular Church,</hi> and Denomi<g ref="char:EOLhyphen"/>nates a Member of it.</p>
+               <p n="8">8. That though Christians are bound to joyn with some <hi>particular Society,</hi> yet they have a liberty to chuse to <hi>which,</hi> according to the general Gospel Rules.</p>
+               <p n="9">9. That meer <hi>Cohabitation</hi> doth not make a man a Member of such a Church.</p>
+               <p n="10">10. That the limitation of <hi>Parochial bounds</hi> is meerly <hi>humane,</hi> and doth not bind the <hi>Conscience</hi> of it self.</p>
+               <p n="11">11. That every man owes a subjection to the <hi>Discipline</hi> of Christ in the Church where<g ref="char:EOLhyphen"/>of he <hi>is,</hi> and is liable to be authoritatively called to an accoun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for his Actions.</p>
+               <p n="12">12. That every Church ought to be able, <hi>within it self</hi> to uphold <hi>Church Discipline,</hi> when <hi>Civil Autherity</hi> will not support them in it.</p>
+               <p n="13">13. That every person, coming up to Com<g ref="char:EOLhyphen"/>munion in all Gospel Ordinances, and Privi<g ref="char:EOLhyphen"/>ledges, owes a <hi>Profession</hi> of, and <hi>Submission</hi> to the <hi>Gospel Covenant.</hi>
+               </p>
+               <p n="14">14. That a profession of subjection to the <hi>Government</hi> that Christ hath appointed, and under which he puts himself, belongs to, and is a branch of the <hi>Gospel Covenant.</hi>
+               </p>
+               <p n="15">
+                  <pb n="9" facs="tcp:61798:5"/>15. That it is a duty for the several Chur<g ref="char:EOLhyphen"/>ches on occasion, to <hi>Renew their Covenant,</hi> in obligations to Duties that the times particular<g ref="char:EOLhyphen"/>ly call for.</p>
+               <p n="16">16. That a <hi>Churches</hi> thus <hi>Combining</hi> is the most likely way to promote the <hi>power,</hi> and <hi>purity</hi> of Religion.</p>
+               <p n="17">17. That the <hi>Light of nature</hi> faith, That whenever any company of men enter into a <hi>Society</hi> for the practising of <hi>common Duties</hi> there must be, and is, either <hi>implicit,</hi> or <hi>explicit con<g ref="char:EOLhyphen"/>sent</hi> between them, by which they oblige them<g ref="char:EOLhyphen"/>selves: that belongs to every one that enters into such a Society.</p>
+               <p>
+                  <hi>The Sumin is,</hi>
+               </p>
+               <p>
+                  <hi>Particular Churches,</hi> being an Institution of our Lord Jesus Christ, and it being therefore the duty. of Christians to joyn with <hi>particular Churches</hi> for the Worship and Service of their Lord, and to <hi>single out</hi> that <hi>particular Church,</hi> wherein they apprehend their present Edifica<g ref="char:EOLhyphen"/>tion most attainable, and to maintain Commu<g ref="char:EOLhyphen"/>nion with that Church, while the sense of Edi<g ref="char:EOLhyphen"/>sication thereto obliges them: all these are <hi>Du<g ref="char:EOLhyphen"/>ties</hi> of the <hi>Covenant of Grace:</hi> and hence it fol<g ref="char:EOLhyphen"/>lows, That our Lord Jesus Christ has required Christians, to <hi>acknowledge</hi> these <hi>Duties,</hi> and <hi>pro<g ref="char:EOLhyphen"/>fess</hi> their Intention to a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tend them; which is the very thing done, in the <hi>practice</hi> of our
+<pb n="10" facs="tcp:61798:6"/> Churches. That the particular <hi>Church Covenant</hi> as commonly practised in the Churches of <hi>New England,</hi> is according to Scripture, and not a meer <hi>Humane Invention,</hi> has these further Evidences.</p>
+               <p n="1">
+                  <hi>I.</hi> Nothing is more indisputable, than that under the <hi>Old Testament,</hi> the Church was Con<g ref="char:EOLhyphen"/>slitute<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l by a <hi>Covenant.</hi> Nor was any Proselyte admitted into that Church, but by <hi>laying hold on that Covenant.</hi> The Scriptures of the <hi>Old Testament</hi> would therefore be directive to us, in the case of the <hi>Church Covenant,</hi> though there were not so full mention of it in the <hi>New;</hi> as they are in the case of the <hi>Church state</hi> of <hi>In<g ref="char:EOLhyphen"/>fants,</hi> and the <hi>Sanctification of the Lords Day;</hi> which because abundantly insisted on, in the <hi>Old Testament,</hi> are in the <hi>New,</hi> more sparingly mentioned.</p>
+               <p n="2">
+                  <hi>II.</hi> Nor is it a consideration of no force for our <hi>Church Covenant,</hi> that the Scriptures which relate unto the <hi>Church</hi> in <hi>Gospel times,</hi> do carry the pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in Intimation of such a <hi>Covenant</hi> in them as is used in our Churches. Thus, <hi>Isa.</hi> 62. 5. 'tis said. of the Church, <hi>Thy Sons shall Marry thee;</hi> which implies <hi>a Covenant.</hi> Thus, Isa. 44. 5. 'tis said, <hi>One shall say, I am the Lords, and another shall subscrthe with his hand unto the Lord, end l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rname himself by the name of Isracl:</hi> which also implies a <hi>Covenant.</hi> Thus, Isa. 56. 4, 6. <hi>They choose the things that please me, and
+<pb n="11" facs="tcp:61798:6"/> take hold of my Covenant. The Sons of the Stran<g ref="char:EOLunhyphen"/>ger shall joyn themselves to the Lord, to Serve him.</hi>
+               </p>
+               <p n="3">
+                  <hi>III.</hi> The State of <hi>Church Members</hi> under the <hi>New-Testament,</hi> is declared to be that of <hi>Fellow Citizens;</hi> Eph. 2. 19. Now there is no admissi<g ref="char:EOLhyphen"/>on unto <hi>Jus Civitatis,</hi> or, <hi>City priviledges,</hi> but by an Act which carries a <hi>Covenant</hi> in it.</p>
+               <p n="4">
+                  <hi>IV.</hi> A Particular Church is not Constituted by meer <hi>Cohabitation,</hi> for then <hi>Infidels</hi> would he <hi>Church Members;</hi> nor by meer <hi>Profession,</hi> for then it would be impossible to <hi>Cut off</hi> scanda<g ref="char:EOLhyphen"/>lous <hi>Church Members</hi> by <hi>Excommunication:</hi> Nor by meer <hi>Bapttsm,</hi> for then upon the Ceasing of <hi>Membership</hi> in a <hi>particular Church,</hi> a man must be <hi>Re baptized.</hi>
+               </p>
+               <p n="5">
+                  <hi>V.</hi> If an <hi>Implicit Covenant,</hi> be absolutely ne<g ref="char:EOLhyphen"/>cessiry to the <hi>Being</hi> of a <hi>Particular Church,</hi> then <hi>Explicit Covenanting,</hi> is but agreeable to the <hi>Law of Christ</hi> But the former is true: where men do not <hi>Implicitly consent,</hi> to worship the Lord Jesus Christ together, according to his Institutions, they neither are, nor can be a <hi>Church:</hi> Certainly for them to Engage <hi>Explicit<g ref="char:EOLhyphen"/>ly</hi> to do so, is a thing unexceptionable.</p>
+               <p n="6">
+                  <hi>VI.</hi> And that the practice of our Churches in this matter, is no <hi>New Practice,</hi> we have plentiful Testimouies. The practice of the <hi>Primitive Churches,</hi> to have a <hi>Sacred Covenant</hi> among them, is Testisied by <hi>Justin Martyr,</hi> by
+<pb n="12" facs="tcp:61798:7"/>
+                  <hi>Tertullian,</hi> and by <hi>Plinies</hi> Letter to <hi>Trajan.</hi> Since the <hi>Reformation</hi> also, we find in several of the first <hi>Reforming Churches,</hi> the practice of such a Sacred <hi>Covenant.</hi>
+               </p>
+               <p>
+                  <hi>Momorandum.</hi> The Ministers of the Pro<g ref="char:EOLhyphen"/>vince, in a General Conventi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, at <hi>Boston, May</hi> 26. 1098. Signified their Concurrence to these Assertions and Arguments, with a Gene<g ref="char:EOLhyphen"/>ral Unanimity.</p>
+               <closer>
+                  <signed>
+                     <hi>Increase Mather,</hi> Moderator.</signed>
+               </closer>
+               <argument>
+                  <p>The Following Cases, were by a more par<g ref="char:EOLhyphen"/>ticular Assembly of Ministers, at several Times meeting in the Colledge at <hi>Cambridge,</hi> thus de<g ref="char:EOLhyphen"/>termined.</p>
+               </argument>
+            </div>
+            <div n="2" type="case">
+               <head>CASE II. A QUESTION.</head>
+               <argument>
+                  <p>Whether to Drink <hi>HEALTHS,</hi> be an usage Lawful for a Christian?</p>
+               </argument>
+               <p n="1">I. IT is too notorious to be denyed, that it was originally an <hi>Heathen Custome,</hi> to <hi>Drink</hi> those which were called the <hi>Cups of Health,</hi> in token of Respect unto the objects mentioned in their Cups. The great <hi>Austin</hi> truly says, <hi>De Paganorum observatione remansit;</hi> it is a <hi>Relique of Paganism.</hi> And, inasmuch as it is not a <hi>na<g ref="char:EOLhyphen"/>tural
+<pb n="13" facs="tcp:61798:7"/> Action,</hi> but an action of a <hi>Religious Nature,</hi> and as themselves call it, a <hi>Devotion,</hi> it is now reached by those Oracles of God which forbid our <hi>Learning the ways, &amp; the works of the Heathen;</hi> &amp; our <hi>Walking as the Gentiles, in the vanity of their mind;</hi> and our <hi>Keeping the vain Conversation re<g ref="char:EOLhyphen"/>ceived by Tradition from our Fathers.</hi>
+               </p>
+               <p n="2">
+                  <hi>II.</hi> That which very much adds to the Obli<g ref="char:EOLhyphen"/>gations lying upon Christians, to abandon this <hi>Relique of Paganism,</hi> is the <hi>Idolatrous,</hi> and the <hi>Diabolical</hi> Intention, that gave the <hi>first Rise</hi> unto it. We are assured, from all the monu<g ref="char:EOLhyphen"/>ments of Antiquity, that the <hi>Healths</hi> drunk by the <hi>Pagans</hi> were first of all <hi>Drink Offerings</hi> to their <hi>Daemons;</hi> they were a <hi>Cup of Devils;</hi> and then sufficiently to complement their <hi>Princes</hi> and <hi>Patrons,</hi> they carryed on the <hi>Offe<g ref="char:EOLhyphen"/>rings,</hi> to these mortals also; and lastly the complement proceeded so far, as to take in any <hi>Friends,</hi> whom they saw cause to treat with such flourishes of affection. It becomes Christians to beware of having any <hi>fellowship</hi> with <hi>such un<g ref="char:EOLhyphen"/>fruitful works of Darkness.</hi>
+               </p>
+               <p n="3">
+                  <hi>III.</hi> To Drink a <hi>Cup,</hi> as a <hi>Part</hi> or <hi>Sign,</hi> of our Invocation upon the blessed God, for the <hi>Health</hi> of any person, is a <hi>Superstition,</hi> directly forbidden by the <hi>Second Commandment:</hi> Nor is it ordinarily free from a violation of the <hi>Third:</hi> and that the Drinking of an <hi>Health,</hi> is thus de<g ref="char:EOLhyphen"/>signed, and so becomes no other than a <hi>Pro<g ref="char:EOLhyphen"/>fane
+<pb n="14" facs="tcp:61798:8"/> Sacrament,</hi> was the judgment of <hi>Ambrose,</hi> when he wrote those words; <hi>Quid meniorem Sacramenta? Bibamus pro salute Imperatorum.</hi> To Drink an <hi>Health</hi> impsies an application to some object for that <hi>Health: This way</hi> of it is unwarrantable.</p>
+               <p n="4">
+                  <hi>IV.</hi> To Begin, or Follow, <hi>Healths</hi> which bind persons to <hi>Drink off</hi> their Cups, is a manifold offence against <hi>Charity, Justice,</hi> and <hi>Reason.</hi> Such Healths being, as the Ancients truly called them, <hi>The Devils sho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing Horus to draw on Drunk enness;</hi> are <hi>Scandals</hi> wherein much Bruitish folly is <hi>Commi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ted,</hi> and more <hi>Occasioned.</hi> The <hi>Primitive Christians</hi> therefore justly Rebuked them, and Condemned them. Great <hi>Emperours</hi> have made <hi>Edicts</hi> against them; <hi>Pagan writers</hi> have Satyrically lashed them; and even <hi>Popish Writers</hi> have Reproached the Protestant Pro<g ref="char:EOLhyphen"/>fession, for their being so much practiced under it.</p>
+               <p n="5">
+                  <hi>V.</hi> Not only the Numberless and Prodigious <hi>Exorbitances</hi> of <hi>Health Drinking,</hi> are to be avoid<g ref="char:EOLhyphen"/>ed by every Christian, but the very proposing our Cups to the <hi>Prosperity</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what is therein <hi>Remembred.</hi> 'Tis a vain plea, ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we drink no more then the <hi>Civil Remembrance</hi> of the persons or affairs mentioned in our <hi>Cups.</hi> Why is the action of <hi>Drinking</hi> singled out, rather than any <hi>other,</hi> for the token of the <hi>Remembrance?</hi> and why is there such a stress laid upon a <hi>Concurrence</hi>
+                  <pb n="15" facs="tcp:61798:8"/> in the action? It is but a continuation of the <hi>Old Paganism,</hi> which had better be utterly <hi>A<g ref="char:EOLhyphen"/>bolish'd,</hi> than thus <hi>Refined</hi> and <hi>Preserved.</hi> Every thing that serves either to <hi>Revive,</hi> or to <hi>Maintain</hi> the old <hi>Pagan Follies,</hi> and harden men in them, should be declined by them, that would <hi>Adorn the Doctrine of God our Saviour.</hi>
+               </p>
+            </div>
+            <div n="3" type="case">
+               <head>CASE III. A QUESTION.</head>
+               <argument>
+                  <p>Whether <hi>INSTRUMENTAL MUSICK,</hi> may be used by the Churches of Christ, in His Publick Worship and Service?</p>
+               </argument>
+               <p n="1">
+                  <hi>I.</hi> THE <hi>Instrumental Musick</hi> used in the old Church of <hi>Israel,</hi> was an <hi>Institution</hi> of God; It was [2 Chron. 29. 25.] <hi>The Com<g ref="char:EOLhyphen"/>mandment of the Lord by his Prophets.</hi> And the <hi>Instruments</hi> are called <hi>Gods</hi> Instruments; [1 Chro. 16. 42.] And <hi>Instruments of the Lord:</hi> [2 Chron. 7. 6.] Now there is not <hi>one word</hi> of <hi>Institution</hi> in the <hi>New Testament,</hi> for <hi>Instrumental Musick</hi> in the worship of God. And because the Holy God, <hi>Rejects</hi> what he does not <hi>Command,</hi> in his Worship, he now therefore in Effect says unto us, <hi>I will not hear the melody of thy Organs</hi> But on the other side, the <hi>Rule</hi> given, does abundant<g ref="char:EOLhyphen"/>ly Intimate, that <hi>no voice</hi> is now to be heard in
+<pb n="16" facs="tcp:61798:9"/> the Church, but what is <hi>Significant,</hi> and <hi>Edisy<g ref="char:EOLhyphen"/>ing</hi> by Signification; which the voice of <hi>Instru<g ref="char:EOLhyphen"/>ments</hi> is not.</p>
+               <p n="2">II. Though <hi>Instrumental Musick</hi> were <hi>admit<g ref="char:EOLhyphen"/>ted</hi> and <hi>appointed,</hi> in the Worship of God, under the <hi>Old Testament,</hi> yet we do not find it <hi>Practi<g ref="char:EOLhyphen"/>ced,</hi> in the <hi>Synagogues</hi> of the Jews, but only in the <hi>Temple</hi> It thence appears, to have been a part of the <hi>Ceremonial Paedagogy,</hi> which is now abolished. Nor can any say, it was a <hi>part</hi> of <hi>moral worship</hi> And whereas the <hi>Common usage</hi> now hath confined <hi>Instrumental Musick</hi> to <hi>Cathe<g ref="char:EOLhyphen"/>drals,</hi> it seems there in too much to <hi>Judaize;</hi> which to do, is a part of the <hi>Antichristian Apos<g ref="char:EOLhyphen"/>tacy,</hi> as well as to <hi>Paganize.</hi>
+               </p>
+               <p n="3">III. In our asserting, a matter of the <hi>Old Testament</hi> to have been <hi>Typical,</hi> 'tis not need<g ref="char:EOLhyphen"/>ful that we be alwayes able to particularize any <hi>Future Mysteries</hi> of the <hi>New Testament</hi> therein referr'd unto; <hi>Truths</hi> which were then of a <hi>present Consideration,</hi> were sometimes represented in the <hi>Types</hi> then used among the People of God. Which helps to understand the case of <hi>Instrumental Musick.</hi>
+               </p>
+               <p n="4">IV. <hi>Instrumental Musick</hi> in the Worship of God, is but a very late Invention and Corrupti<g ref="char:EOLhyphen"/>on, in the Church of the <hi>New Testament.</hi> The writings that go under the name of <hi>Justin Mar<g ref="char:EOLhyphen"/>tyr,</hi> deny it, and decry it: <hi>Chrysostom</hi> speaks meanly of it; even <hi>Aquinas</hi> himself about
+<pb n="17" facs="tcp:61798:9"/> four hundred years ago determines against it, as Jewish and Carnal. <hi>Bellarmine</hi> himself con<g ref="char:EOLhyphen"/>fesses, that it was but <hi>late</hi> received in the Church.</p>
+               <p n="5">
+                  <hi>V</hi> If we admit <hi>Instrumental Musick</hi> in the Worship of God, how can we resist the <hi>Imposi<g ref="char:EOLhyphen"/>tion</hi> of all the <hi>Instruments</hi> used among the <hi>Anci<g ref="char:EOLhyphen"/>ent Jews;</hi> yea, <hi>Dancing</hi> as well as <hi>Playing,</hi> and several othet <hi>Judaic actions?</hi> Or, how can we decline a whole rabble of <hi>Church Officers,</hi> ne<g ref="char:EOLhyphen"/>cessary to be introduced, for <hi>Instrumental Mu<g ref="char:EOLhyphen"/>sick,</hi> whereof our Lord Jesus Christ hath left us no manner of Direction?</p>
+            </div>
+            <div n="4" type="case">
+               <head>CASE IV. PROPOSITIONS,</head>
+               <argument>
+                  <p>About the Office of <hi>Ruling Elders.</hi>
+                  </p>
+               </argument>
+               <p n="1">1. THough the <hi>Pastors</hi> of Churches, are originally Entrusted with the <hi>whole</hi> care of what is to be done, in the <hi>feeding</hi> and <hi>ruling</hi> of the Societies, whereof the Holy Spirit has made them <hi>Overseers;</hi> yet the Wisdom and Goodness of our Lord Jesus Christ has made provision for their <hi>Assistance,</hi> in the ma<g ref="char:EOLhyphen"/>nagement of those Church-Affairs, which would otherwise too much Encumber them, in devoting themselves to the <hi>Word</hi> and <hi>Prayer.</hi>
+               </p>
+               <p n="2">
+                  <pb n="18" facs="tcp:61798:10"/>2. <hi>Ruling Elders,</hi> are appointed for the Assist<g ref="char:EOLhyphen"/>ance of their <hi>Pastors,</hi> in the <hi>Government</hi> of their Churches, and the <hi>Inspection</hi> of the Fleeks; and although these <hi>Officers</hi> may not be furnish<g ref="char:EOLhyphen"/>ed with all those <hi>Attainments</hi> which are necessa<g ref="char:EOLhyphen"/>ry to a <hi>Pastor,</hi> yet if they are so accomplished, as that they may be <hi>Helps</hi> to their <hi>Pastor,</hi> in the management of <hi>Church Rule,</hi> they may be Chosen thereunto, with much Benefit and Ad<g ref="char:EOLhyphen"/>vantage to the people of God.</p>
+               <p n="3">3. Whereas 'tis the business of a <hi>Ruling Elder</hi> to assist his <hi>Pastor</hi> in <hi>Visiting</hi> of the Di<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ressed, <hi>Instructing</hi> of the Ignorant, <hi>Reducing</hi> of the Er<g ref="char:EOLhyphen"/>roneous, <hi>Comforting</hi> of the Afflicted, <hi>Advising</hi> of the De<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ective, <hi>Rebuking</hi> of the Unruly, <hi>Dis<g ref="char:EOLhyphen"/>covering</hi> the State of the <hi>whole Flock,</hi> Exercising the <hi>Discipline</hi> of the Gospel upon Offendors, and promoting the desnable <hi>growth</hi> of the Church, 'tis necessary that he be a person of a <hi>Wisdom, Courage, Leisure,</hi> and Exemplary <hi>Holi<g ref="char:EOLhyphen"/>ness</hi> and <hi>Gravity,</hi> agreeable to such Employ<g ref="char:EOLhyphen"/>ments.</p>
+            </div>
+            <div n="5" type="case">
+               <head>CASE V. A QUESTION.</head>
+               <argument>
+                  <p>Whether the Pastor of a Neighbouring Church, may not upon the Request of a Destitute Church, Ad<g ref="char:EOLhyphen"/>minister the Sacraments unto them?</p>
+               </argument>
+               <p>INasmuch as the <hi>Pastors</hi> of any <hi>Evangelical Churches</hi> are, though not having a <hi>Pastoral
+<pb n="19" facs="tcp:61798:10"/> Charge</hi> of more than <hi>one,</hi> to be acknowledged in <hi>all</hi> of them, as <hi>Ordained Ministers</hi> of the Lord Jesus Christ, and are <hi>actually</hi> acknow<g ref="char:EOLhyphen"/>ledged as Preaching in that Capacity, when they are <hi>occasionally</hi> put upon Preaching of the Gospel abroad;</p>
+               <p>Inasmuch also as the <hi>Communion of Churches,</hi> which makes the Members of <hi>any,</hi> capable of Admission to the <hi>Special Ordinances</hi> of the Lord Jesus Christ in <hi>all</hi> of them, does likewise ren<g ref="char:EOLhyphen"/>der it <hi>reasonable,</hi> for the <hi>Pastors</hi> of any to be capable of Administring those Ordinances in <hi>all:</hi>
+               </p>
+               <p>It is therefore our Judgment, that the <hi>Pastor</hi> of a <hi>Neighbouring Church,</hi> may upon the Request of a <hi>Destitute Church,</hi> occasionally Administer the Sacraments unto them.</p>
+               <p>And it is our further Judgment, that the second Article in the fifteenth Chapter of our <hi>Platform of Church Discipline,</hi> is to be understood as approving of it.</p>
+               <p>Nor is it unknown, that Eminent <hi>Congreg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>onal Churches,</hi> have by their <hi>practice</hi> manifested themselves to have been of this <hi>Judgment</hi> be<g ref="char:EOLhyphen"/>fore us.</p>
+               <p>And it seems in the <hi>purest</hi> and <hi>earliest</hi> of the <hi>Primitive Times,</hi> to have been allow'd.</p>
+               <p>Nevertheless, we think it convenient, that as the <hi>Destitute Churches</hi> do by their <hi>Vote,</hi> call the Neighbour <hi>Pastors</hi> to that <hi>Ocasional Service,</hi> be<g ref="char:EOLhyphen"/>fore
+<pb n="20" facs="tcp:61798:11"/> they attend it, so that the <hi>consent</hi> of the Churches. whereto those Pastors belong, be not left Unconsider'd in it.</p>
+               <p>We do moreover think, that nothing should be done in this matter that may in any wise <hi>Obstruct</hi> the welfare of any <hi>bereaved Churches,</hi> in their speedy seeking of a <hi>Settled Supply,</hi> for all Ordinances among them, or otherwise In<g ref="char:EOLhyphen"/>terrupt and Incommode <hi>Common Edification.</hi>
+               </p>
+            </div>
+            <div n="6" type="case">
+               <head>CASE VI. PROPOSITIONS,</head>
+               <argument>
+                  <p>About the Power of <hi>SYNODS,</hi> with respect unto <hi>Particular Churches.</hi>
+                  </p>
+               </argument>
+               <p n="1">
+                  <hi>I. PArticular Churches,</hi> having the <hi>same</hi> origi<g ref="char:EOLhyphen"/>nal, ends &amp; in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erests, and being <hi>mutually</hi> concerned in the good and evil of each other, there is the <hi>light of Nature,</hi> as well as of <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> to direct the meeting of Churches by their <hi>Delegates,</hi> to consult and conclude things of <hi>common concernment</hi> unto them.</p>
+               <p n="2">
+                  <hi>II. Synods</hi> duely composed, of <hi>Messengers</hi> cho<g ref="char:EOLhyphen"/>sen by them, whom they are to represent, &amp; proceeding with a due regard unto the <hi>Will</hi> of God in his <hi>Word,</hi> are to be reverenced, as <hi>De<g ref="char:EOLhyphen"/>termining</hi> the mind of the Holy Spirit, concern<g ref="char:EOLhyphen"/>ing things necessary to be <hi>Received</hi> or <hi>Practised,</hi>
+                  <pb n="21" facs="tcp:61798:11"/> in order to the <hi>Edification</hi> of the Churches there<g ref="char:EOLhyphen"/>in represented.</p>
+               <p n="3">
+                  <hi>III.</hi> All the Commands of God, which bid us to be <hi>Well-advised,</hi> and to regard a <hi>Multitude of Counsellors,</hi> do particularly oblige us, with reverence to entertain the advice of <hi>Synods,</hi> assembling in the Name and Fear of the Lord Jesus Christ, for an enquiry after his directions; and if <hi>One Church</hi> be to be <hi>heard,</hi> much more are <hi>Many Churches</hi> to be so, in things that pro<g ref="char:EOLhyphen"/>perly fall under the cognizance thereof.</p>
+               <p n="4">
+                  <hi>IV. Synods</hi> being by <hi>Apostolical Example</hi> re<g ref="char:EOLhyphen"/>commended as <hi>necessary Ordinance,</hi> it is but reasonable that their <hi>Judgment</hi> be acknowledg<g ref="char:EOLhyphen"/>ed as <hi>Decisive</hi> in the affairs for which they are <hi>Ordained,</hi> and to deny them the power of such a <hi>Judgment,</hi> is to render a <hi>necessary Ordinance</hi> of none effect.</p>
+               <p n="5">
+                  <hi>V.</hi> The power of <hi>Synods,</hi> is not to <hi>abate,</hi> much less to <hi>destroy</hi> the Liberties of <hi>Particular Churches,</hi> but to <hi>Strengthen</hi> and <hi>Direct</hi> those Churches in the right use of the powers given by the Lord Jesus Christ unto them. And such Assemblies are therefore to be used as a <hi>relief</hi> ordained by God, for those <hi>Difficulties,</hi> for which the care and state of a <hi>Particular Church,</hi> affords not a sufficient remedy.</p>
+               <p n="6">
+                  <hi>VI.</hi> The <hi>rights</hi> allowed unto <hi>Synods,</hi> in the <hi>Irenicum</hi> of the Excellent <hi>Jeremiah Burroughs.</hi> Chap. 7. we fully consent and subscribe unto.</p>
+            </div>
+            <div n="7" type="case">
+               <pb n="22" facs="tcp:61798:12"/>
+               <head>CASE VII. A QUESTION.</head>
+               <argument>
+                  <p>
+                     <hi>Whether it be Lawful for a man to Marry his Wifes own Sister?</hi>
+                  </p>
+               </argument>
+               <p n="1">1. A <hi>Marriage</hi> between a man and his <hi>Wifes own Sister,</hi> is positively prohibited in that Law of God. <hi>Levit. 18. 16. That a man may not Marry his Brothers Wife.</hi> By the plainest consequence, a woman may not Marry her <hi>Sisters Husband:</hi> The degree prohibited is ex<g ref="char:EOLhyphen"/>actly the same.</p>
+               <p n="2">2. The <hi>Law</hi> which thus prohibited the Mar<g ref="char:EOLhyphen"/>riage of a man to his <hi>Wifes own Sister,</hi> has an Authority, and an obligation reaching even to the <hi>Gentiles,</hi> upon whom the <hi>Ends of the World are come.</hi> 'Tis evident, in that the Violation of this <hi>Law,</hi> is declared, one of those <hi>Abominations,</hi> for which the Ancient <hi>Canaanites</hi> were <hi>Spued out of their Land.</hi> And we find the <hi>New Testament</hi> in diverse places insisting upon those prohibiti<g ref="char:EOLhyphen"/>ons, among which this <hi>Law</hi> is one. The <hi>good Order</hi> which God has by this Law established in <hi>Humane Society,</hi> is that which the <hi>Light of Nature</hi> in man-kind, as <hi>now Increased,</hi> abundant<g ref="char:EOLhyphen"/>ly testifies unto. The Dispensation which the <hi>Soveraign Law-giver</hi> once gave, in one instance,
+<pb n="23" facs="tcp:61798:12"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereunto, was Extraordinary. The Example o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Jacob</hi> in this matter, is to be disapproved by all that would be esteemed <hi>his Children,</hi> as well as hat of his <hi>Polygamy.</hi> And such Matches are in <hi>History,</hi> branded, as attended with a rema<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<g ref="char:EOLhyphen"/>able <hi>Curse</hi> of God upon them.</p>
+               <p n="3">3. 'Tis the Law of our God, in <hi>Levit. 18. 6. None of you shall approach</hi> (in a Marriage) <hi>unto any that is near of kin to him.</hi> Now the kind<g ref="char:EOLhyphen"/>red between a man and his <hi>Wifes own Sister,</hi> is of the nearest sort: for, <hi>In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er virum et mul<g ref="char:EOLhyphen"/>ierem, non contrahitur affinitas, sed ips<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> sunt affini<g ref="char:EOLhyphen"/>tatis causa:</hi> So then, this <hi>Affinity,</hi> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not less than, <hi>in primo genere,</hi> and therefore Unlawful.</p>
+               <p>It is likewise the concurrent sense of the greatest Divines (particularly asserted in the <hi>Assemblies confession of Faith</hi>) that <hi>in what degree any one is of consanguinity to the Wife, in the same degree of Affinity is that person to the Husband,</hi> And, <hi>that an Husband is forbidden to Marry with the consanguines of his Wife, by the same rules that con<g ref="char:EOLhyphen"/>sanguines are forbidden to Marry among themselves;</hi> And this asserting may be demonstrated from the rules given in the Eighteenth Chapter of <hi>Levit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ous.</hi> Wherefore as a man may not Mar<g ref="char:EOLhyphen"/>ry his <hi>own Sister,</hi> so not the <hi>Sister of his Wife,</hi> which is <hi>one flesh</hi> with him.</p>
+               <p n="4">4. The <hi>Marriage</hi> in the question, has been so <hi>Scandalous</hi> among the whole people of G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, that whosoever is guilty of it, therein wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thy
+<pb n="24" facs="tcp:61798:13"/> to be <hi>cut off</hi> from the communion of the <hi>Ca<g ref="char:EOLhyphen"/>tholick Church.</hi> Yea, it has been one of the Imperial Laws, <hi>Duabus sororibus conjungendi peni<g ref="char:EOLhyphen"/>tus licentiam submovemus.</hi>
+               </p>
+               <p>Much less may such an Iniquity be counte<g ref="char:EOLhyphen"/>nanced among a people of our profession.</p>
+            </div>
+            <div n="8" type="case">
+               <head>CASE VIII. A QUESTION.</head>
+               <argument>
+                  <p>Whether, and, How far the <hi>Discipline</hi> of our Lord in our Churches, is to be Extended unto the <hi>Children</hi> therein Baptised?</p>
+               </argument>
+               <p n="1">1 WE Judge, that the <hi>Discipline</hi> of our Lord Jesus Christ in our Churches ought to be extended unto the Children baptised in them: Inasmuch as these persons are cer<g ref="char:EOLhyphen"/>tainly those which the Scripture calls <hi>Within,</hi> and not <hi>Without;</hi> And the <hi>Lambs</hi> as well as others, in the Flocks of our Lord, are to be <hi>fed:</hi> And the <hi>practice</hi> of the <hi>purest Churches</hi> has been agreeable to this <hi>principle;</hi> as well the <hi>Primitive</hi> before, as the <hi>Bohemian</hi> and others, since the <hi>Reformation;</hi> Reason also says, that where a <hi>priviledge</hi> is expected, a <hi>Discipline</hi> is to be acknowledged.</p>
+               <p n="2">2. Although it is a <hi>Membership</hi> in the <hi>Catho<g ref="char:EOLhyphen"/>lick Church,</hi> which gives <hi>right</hi> unto <hi>Baptism,</hi> yet
+<pb n="25" facs="tcp:61798:13"/>
+                  <hi>Particular Churches,</hi> as well as the <hi>Pastors</hi> of those Churches, owe a duty to the <hi>Catholick Church;</hi> part of which duty is, the Application of <hi>Discipline</hi> unto those <hi>Baptised</hi> persons, whom the Providence of God shall cast under their Inspection.</p>
+               <p n="3">3. The <hi>Discipline,</hi> which we count owing unto these persons is, An <hi>Instruction</hi> in the Laws of our Lord Jesus Christ; an <hi>Admonition</hi> upon a scandalous violation of those Laws; and upon <hi>Incorrigiblenoss</hi> in evil, an open rejecti<g ref="char:EOLhyphen"/>on from all <hi>Eccl siastical Priviledges.</hi> And al<g ref="char:EOLhyphen"/>though persons are then most clearly liable to this process, when they have actually <hi>Renewed</hi> their <hi>Baptismal Covenant,</hi> and Recognized their subjection to the <hi>Government</hi> of our Lord in his Church; and the <hi>Children</hi> of the Church are to be accordingly laboured withal, that they may be brought he reunto; yet we do not think, that any of the said persons refusing or neg<g ref="char:EOLhyphen"/>lecting thus to do, are thereby exempted from all such <hi>care</hi> of the Church to bring them unto <hi>Repentance.</hi>
+               </p>
+            </div>
+            <div n="9" type="case">
+               <head>CASE IX. PROPOSITIONS,</head>
+               <argument>
+                  <p>About the Obligation upon Ministers to <hi>VISIT.</hi> the <hi>SICK,</hi> in times of Epidemical and Contagious Distempers.</p>
+               </argument>
+               <p n="1">1. <hi>MInisters</hi> of the Gospel are to have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great concern for the <hi>Sick</hi> under their
+<pb n="26" facs="tcp:61798:14"/> Pastoral Charge, and endeavour the <hi>fulfilling of their Ministry,</hi> not only by fit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the necessities of their Sick with their <hi>Prayers,</hi> but also by leaving them unacquainted with none of those <hi>Counsels</hi> which may prepare for their End.</p>
+               <p n="2">2. Nevertheless in times of <hi>Epidemical Conta<g ref="char:EOLhyphen"/>gions,</hi> the Ministers of the Gospel may by va<g ref="char:EOLhyphen"/>rious methods, attend what is necessary thus to be attended, without the <hi>ordinary visitations</hi> of the <hi>Infected Chambers.</hi>
+               </p>
+               <p n="3">3. A Minister solici<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous about his duty in <hi>Visiting the Sick</hi> of his Flock, when <hi>Pestilential Contagions</hi> are prevailing, may receive much direction from the <hi>Courage</hi> wherewith he may find the God of Heaven fortifying his heart unto such an undertaking.</p>
+               <p n="4">4. The <hi>bare desires</hi> of the Sick, to be visited by a Minister, have often so much of <hi>evident unseasonableness and unreasonableness,</hi> and perhaps of <hi>worse causes</hi> in them, that 'tis no ways fitting a <hi>life:</hi> should be sacrificed <hi>meerly</hi> thereunto.</p>
+               <p n="5">5. When a Minister is well assured, that the <hi>Sick</hi> of his own Flock are labouring under such <hi>Loads</hi> upon their <hi>Conseiences,</hi> as can't fitly be Unburden'd unto any but <hi>himself,</hi> he has a call from Heaven to venture himself unto the ut<g ref="char:EOLhyphen"/>most for the Service of such a Soul, and may expect the <hi>protection</hi> of heaven accordingly to be a <hi>shield</hi> unto him.</p>
+               <p n="6">
+                  <pb n="27" facs="tcp:61798:14"/>6. A Minister in times of <hi>General Mortalities,</hi> may do well before he expose himself unto the evident hazards of those <hi>Mortalities,</hi> to take the <hi>Advice</hi> and <hi>Consent</hi> of that <hi>Church</hi> unto whose Edification the labours of his life are de<g ref="char:EOLhyphen"/>dicated, whether they are willing that he should sacrifice his life unto the <hi>private Service</hi> of the <hi>Sick;</hi> and the opinion of a people thus asked, will afford much <hi>satisfaction</hi> unto a Mi<g ref="char:EOLhyphen"/>nister as to what may be in this case incum<g ref="char:EOLhyphen"/>bent on him.</p>
+               <p n="7">7 In times extraordinarily pestilential, if the <hi>Neighbouring Ministers</hi> do by <hi>lot,</hi> solemnl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y single out one of their number, to <hi>devote</hi> him<g ref="char:EOLhyphen"/>self, with the exemption of the <hi>rest,</hi> unto the help of the <hi>Sick,</hi> 'twere a course not to be dis<g ref="char:EOLhyphen"/>approved; but a Minister so <hi>devoted,</hi> may cheerfully commend himself to the acceptance of God, in serving of the distressed.</p>
+            </div>
+            <div n="10" type="case">
+               <head>CASE X. A QUESTION.</head>
+               <argument>
+                  <p>
+                     <hi>In what cases a Minister may leave his people?</hi>
+                  </p>
+               </argument>
+               <p n="1">1. A Pastor Setled in the Service of a <hi>People,</hi> is to be so sensible of his <hi>designation</hi> by the Spirit and Providence of the Lord Jesus Christ for that Service, and of the <hi>account</hi> that
+<pb n="28" facs="tcp:61798:15"/> he must give unto God, about his behaviour in it, that his <hi>removal</hi> must not be <hi>rashly</hi> attempted, but with much <hi>consideration, consultation, supplica<g ref="char:EOLhyphen"/>tion,</hi> and sincers <hi>desire</hi> to follow the <hi>conduct of Heaven</hi> in it The srowns o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God use to follow <hi>Removes,</hi> that have not so been regulated.</p>
+               <p n="2">2. That the will of our Lord, about the <hi>Removal</hi> of any <hi>Pastor,</hi> from his <hi>people,</hi> may be understood, it is requisite that the Minister do not entirely <hi>assume to himself,</hi> the Judgment of his own call to remove: but a great regard must be had unto the Direction of the Church of the Lord, in the <hi>Neighbourhood.</hi>
+               </p>
+               <p n="3">3. They unto whom the Judgment of a <hi>Pastors Removal</hi> from his <hi>people</hi> is to be reserv<g ref="char:EOLhyphen"/>ed, should exactly weigh both the <hi>present</hi> and future circumstances of <hi>both;</hi> and endeavour a <hi>provision,</hi> that neither patty may suffer, in the <hi>Removal</hi> of the Minister from his Flock.</p>
+               <p n="4">4. In case there be arisen those <hi>incureable prejudices, dissentions, animosities,</hi> and <hi>implacable offences,</hi> between a <hi>Pastor</hi> and his <hi>People,</hi> that all <hi>reverence</hi> for and <hi>benefit</hi> by his Ministry, is utter<g ref="char:EOLhyphen"/>ly to be despaired, he may be <hi>Removed.</hi> The <hi>want of success</hi> otherwise, is not a sufficient cause of <hi>Removal;</hi> but it is to be endured with all <hi>humble patience</hi> by the Minister, as a great af<g ref="char:EOLhyphen"/>fliction, and yet with this encouragement, that God will reward him, <hi>Secundum Laborem, non secundum proventum.</hi>
+               </p>
+               <p n="5">
+                  <pb n="29" facs="tcp:61798:15"/>5. A <hi>Pastor</hi> may be removed from his <hi>people,</hi> in case his <hi>Translation</hi> be found necessary for the <hi>common good.</hi> The welfare of the <hi>Catholick Churoh</hi> in the general Edification of a <hi>Communi<g ref="char:EOLhyphen"/>ty,</hi> should be of such weight, as to make any <hi>particular Church</hi> give way thereunto. But yet it becomes not any <hi>Minister</hi> to <hi>seek</hi> his own <hi>Translation,</hi> by <hi>first offering</hi> himself unto it.</p>
+               <p n="6">6. There are some things, which dissolve the <hi>Vinculum Pastorale,</hi> between a <hi>Pastor</hi> and his <hi>People,</hi> and in case those <hi>distasters</hi> happen, he may be removed. Thus if a Minister have <hi>Tolerable subsistence.</hi> wherewith he may after a Christian manner <hi>provide for his own,</hi> Deny'd unto him: Or, if a Minister have no way to avoid a storm of <hi>Persecution, purely personal,</hi> but by <hi>slying from one City to another;</hi> a remove may be justified. And the <hi>Dissolution</hi> of a <hi>Church</hi> gives a like liberty to him t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at had been the <hi>Shepherd</hi> of the now scattered Flock.</p>
+               <p n="7">7. Although a <hi>Pastor</hi> should be willing to Encounter many <hi>Difficulties</hi> and <hi>Infirwities</hi> with his people; yet in ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that <hi>Chronical Diseases,</hi> which evidently threaten his life, might hope<g ref="char:EOLhyphen"/>fully be relieved, by his removal, it should then on all hands be allowed and advised▪ <hi>Mercy</hi> is here to be preferred unto <hi>Sacrifice;</hi> and so we find it was in the <hi>Primitive Churches</hi> accordingly.</p>
+               <p n="8">
+                  <pb n="30" facs="tcp:61798:16"/>8. If much of <hi>Scandal</hi> will certainly ensue upon the <hi>Removal</hi> of a <hi>Pastor</hi> from his <hi>People, That</hi> should weigh down many circumstances, that would rather invite such a <hi>Removal.</hi>
+               </p>
+            </div>
+            <div n="11" type="case">
+               <head>CASE XI. A QUESTION.</head>
+               <argument>
+                  <p>What Singular Expedient. should we further Meditate and Prosecute, for promoting of the great Design of <hi>REFORMA<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ION</hi> among us?</p>
+               </argument>
+               <p n="1">1. THere is a large number of people in this Country, which not lying within the reach of our <hi>Ecclesiastical Discipline,</hi> do from thence encourage thomselves, in the <hi>Liberty</hi> which they take, to do the <hi>things for which the wrat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of God comes upon the Land.</hi> It would very much promote the designs of <hi>Reformation</hi> a<g ref="char:EOLhyphen"/>mong us, if all due means were used, for the bringing of more than there are, and as many as may be, to submit unto our <hi>Church Watch:</hi> 'twere highly desireable and necessary that the <hi>body</hi> of this professing people should thus be brought into the way of <hi>Reformation.</hi> It hath been by an happy experience found, that God hath given a singular <hi>Success</hi> unto the <hi>Admoniti<g ref="char:EOLhyphen"/>ons</hi> of our Churches, apply'd unto such as have by their <hi>Miscarriages</hi> thereto exposed themselves;
+<pb n="31" facs="tcp:61798:16"/> many have been thereby savingly brought home unto God.</p>
+               <p n="2">2. The Expedients for the <hi>Reformation</hi> of our Land, offered by the <hi>Synod,</hi> in the year 1679. ought not to be forgotten, but the Remem<g ref="char:EOLhyphen"/>brance and the consideration thereof should be revived.</p>
+               <p n="3">3. The <hi>Concurrence</hi> of such as do sustain place in the <hi>Civil Government</hi> is of great Importance, in the prosecution of our desired <hi>Reformation:</hi> and that we may enjoy this, it must be endea<g ref="char:EOLhyphen"/>voured, that there should be no <hi>misunder stand<g ref="char:EOLhyphen"/>ings</hi> between any in the <hi>Government,</hi> and in the <hi>Ministry.</hi> This being observed, a <hi>General Con<g ref="char:EOLhyphen"/>sultation,</hi> upon the Methods of <hi>Reformation,</hi> is to be asked for.</p>
+               <p n="4">4. For the <hi>Pastors</hi> of our Churches, in <hi>Visiting</hi> of their Flocks, to inform themselves about the <hi>Morals</hi> of their people in every quarter, and thereupon both publickly and privately set themselves to <hi>Cure</hi> what shall be found amiss, would signisie very much in a glorious <hi>Refor<g ref="char:EOLhyphen"/>mation.</hi>
+               </p>
+               <p n="5">5. <hi>Particular Churches,</hi> have a power of <hi>Self-Reformation,</hi> and they would contribute more than a little, to an <hi>Universal</hi> one, if they would be <hi>Exemplary</hi> unto one another, in deliberations upon their own circumstances, and in Renewing, Explaning and Enforcing of their <hi>Covenant.</hi>
+               </p>
+               <p n="6">6. It would be well, if the Ministers in this
+<pb n="32" facs="tcp:61798:17"/> (as well as any other) <hi>Association</hi> would single out the more <hi>Observeable Iniquities</hi> in the Country, and successively at fit seasons, publish brief, but full <hi>Testimonies</hi> against those Iniquities. A manifold advantage might accrue to our Attempts of <hi>Reformation,</hi> by those <hi>Testimonies.</hi>
+               </p>
+               <p n="7">7. <hi>Solemn Dayes</hi> of <hi>Prayer</hi> with <hi>Fasting,</hi> cele<g ref="char:EOLhyphen"/>brated in our Churches, to Implore the <hi>Grace</hi> of God, for the <hi>Rising Generation,</hi> would proba<g ref="char:EOLhyphen"/>bly be of blessed Confequence for the <hi>turning</hi> of our Young People, unto the God of our Fa<g ref="char:EOLhyphen"/>thers. The more there is this way ascribed unto <hi>Grace,</hi> the more is the <hi>Grace</hi> of God like to be communicated; and there is in this way a Natural and Plentiful Tendency to <hi>awaken</hi> our Unconverted Youth, unto a sense of their Everlasting Interests: which were it generally accomplished, a <hi>Remarkable Reformation</hi> were therein effected.</p>
+            </div>
+            <div n="12" type="case">
+               <head>CASE XII. QUESTION.</head>
+               <argument>
+                  <p>In what Cases, is a <hi>DIVORCE</hi> of the Married, justly to be Pursued and Obtained?</p>
+               </argument>
+               <p n="1">1. TO judge, determine and accomplish, a <hi>Divorce</hi> of any Married persons, the <hi>Civil Magistrate</hi> is to be addressed or concerned.</p>
+               <p n="2">
+                  <pb n="33" facs="tcp:61798:17"/>2. In case any married persons be found un<g ref="char:EOLhyphen"/>der natural <hi>Incapacities</hi> and <hi>Insufficiencies</hi> which utterly disappoint the <hi>Confessed Ends of Marri<g ref="char:EOLhyphen"/>age,</hi> the <hi>Marriage</hi> is to be declared a <hi>Nullity.</hi>
+               </p>
+               <p n="3">3. In case any married person be found al<g ref="char:EOLhyphen"/>ready bound in a <hi>Marriage</hi> to another yet Li<g ref="char:EOLhyphen"/>ving, a <hi>Divorce</hi> is to be granted unto the <hi>ag<g ref="char:EOLhyphen"/>grieved party.</hi>
+               </p>
+               <p n="4">4. In case any married person be convicted of such <hi>criminal Uncleannesses</hi> as render them <hi>one flesh</hi> with another Object, than that where<g ref="char:EOLhyphen"/>to their Marriage has united them, the Inj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red Party may sue and have their Divorce from the Offending; which is the plain sense of Sentence passed <hi>Mat.</hi> 19. 9. by our Lord.</p>
+               <p n="5">5. In case there be found <hi>Incest</hi> in a <hi>Marri<g ref="char:EOLhyphen"/>age,</hi> a <hi>Divorce</hi> is to command the <hi>Separation</hi> of the Married.</p>
+               <p n="6">6. In case it be found that the person Mar<g ref="char:EOLhyphen"/>ried, had by <hi>Fornication</hi> before Marriage, been made one with a person related unto the per<g ref="char:EOLhyphen"/>son with whom they are now Married, within the degrees made <hi>Incestucus,</hi> by the Law of God, it is a just plea for a <hi>Divorce.</hi>
+               </p>
+               <p n="7">7. In case of a <hi>Malicious Des<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rtion</hi> by a mar<g ref="char:EOLhyphen"/>ried person, which is Obliged and Invited to return, a <hi>Divorce</hi> may be granted by <hi>Lawful Authority,</hi> unto the forsaken. For the Word of God is plain, <hi>That a Christian is not bound in such cases,</hi> by the <hi>Marriage Covenant,</hi> unto one
+<pb n="34" facs="tcp:61798:18"/> which thus wilfully violates the Covenant; and though our Saviour forbids, <hi>a mans putting away his Wife, except it be for Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nication,</hi> yet he forbids not Rulers to rescue an <hi>Innocent person</hi> from the Enthrailing Disadvantages of another that shall sinfully <hi>go away.</hi>
+               </p>
+               <p n="8">8. As for married persons long absent from each other, and not heard of by each other, the Government may State what <hi>length of Time</hi> in this case, may give such a presumption of <hi>Death</hi> in the person abroad, as may render a <hi>Second Marriage</hi> free from <hi>Scandal.</hi>
+               </p>
+               <p n="9">9. A <hi>Divorce</hi> being legally pursued and ob<g ref="char:EOLhyphen"/>tained, the Innocent person that is released, may proceed unto a <hi>Second Marriage in the Lord:</hi> otherwise the State of Believ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs under the New-Testament, would in some of these cases, be worse then what the God of Heaven, directed for his people under the Old.</p>
+            </div>
+            <div n="13" type="case">
+               <head>CASE XIII. PROPOSITIONS.</head>
+               <argument>
+                  <p>Concerning the Power of <hi>ELDERS,</hi> in the Government of the Church.</p>
+               </argument>
+               <p n="1">1. THe power of <hi>Church Government</hi> belongs only to the <hi>Elders</hi> of the Church. The names of <hi>Elders</hi> in the Scriptures are but Insig<g ref="char:EOLhyphen"/>nificant
+<pb n="35" facs="tcp:61798:18"/> and Unintelligible <hi>Metaphors,</hi> if the <hi>Rule</hi> of the Church be not only in the hands of its <hi>Elders.</hi>
+               </p>
+               <p>The <hi>Word</hi> of God hath ordered the <hi>People</hi> to <hi>Obey the Elders</hi> of the Church, <hi>as having the rule over them, and a watch over their Souls.</hi>
+               </p>
+               <p>An Ability to <hi>Rule well</hi> is a qualification particularly required in the <hi>Elders</hi> of the Church, that they may be able to take a due care of it.</p>
+               <p>
+                  <hi>Governments</hi> are Enumerated among those things in the Church, which <hi>All</hi> are not; but which are compatible unto <hi>some</hi> only: now, who but the <hi>Elders?</hi>
+               </p>
+               <p>Were the <hi>Government</hi> of the Church as much in the <hi>Brethren</hi> as in the <hi>Elders,</hi> then the <hi>whole Body</hi> were <hi>all eye;</hi> which it is not.</p>
+               <p n="2">2. There are yet certain cases, wherein the <hi>Elders</hi> in the Management of their <hi>Church Go<g ref="char:EOLhyphen"/>vernment,</hi> are to take the <hi>concurrence</hi> of the <hi>Fra<g ref="char:EOLhyphen"/>tornity.</hi> 'Tis to be done in those <hi>Acts,</hi> to at<g ref="char:EOLhyphen"/>tain the <hi>Ends</hi> whereof, there are to follow cer<g ref="char:EOLhyphen"/>tain <hi>Duties</hi> of the <hi>Fraternity:</hi> namely, <hi>Elections,</hi> and <hi>Admissions,</hi> and <hi>Censures.</hi>
+               </p>
+               <p>Hence in such things we find the Injunctions of the <hi>Scripture</hi> address'd unto the <hi>whole Church.</hi> Hence all <hi>Antiquity</hi> assures us, that such matters were in the Primitive Church done still, <hi>Con<g ref="char:EOLhyphen"/>sentiente Plebe.</hi>
+               </p>
+               <p>And the <hi>Brethren</hi> of the Church might o<g ref="char:EOLhyphen"/>therwise
+<pb n="36" facs="tcp:61798:19"/> be obliged unto the doing of things, wherein they cannot act <hi>in faith,</hi> or be consci<g ref="char:EOLhyphen"/>entiously satisfied that such things are to be done.</p>
+               <p n="3">3 Nevertheless the <hi>Pastor</hi> of a Church may by himself <hi>authoritatively suspend</hi> from the <hi>Lords Table,</hi> a Brother accused or suspected of <hi>Scandal,</hi> till the matter may and should be regularly Examined.</p>
+               <p>Our Lord forbids the coming of such an Offendor to his <hi>Altar,</hi> if even one of <hi>less,</hi> of <hi>no</hi> authority in the Church, do signifie a reaso<g ref="char:EOLhyphen"/>nable dissatisfaction.</p>
+               <p>The <hi>Pastors</hi> of the Church, are the <hi>Porters</hi> of the Temple, Impowred sufficiently to de<g ref="char:EOLhyphen"/>tain such as they see with <hi>moral Uncleannesses</hi> upon them.</p>
+               <p>And it belonging unto the <hi>Pastors</hi> of the Church, to direct the <hi>Brethren</hi> upon the first opportunity, in the Application of the necessa<g ref="char:EOLhyphen"/>ry <hi>Discipline,</hi> it is not reasonable, that they should be bound in the mean time, to <hi>declare practically</hi> what shall be contrary to such <hi>directi<g ref="char:EOLhyphen"/>on,</hi> by Administring the <hi>Lords Supper</hi> unto a person against whom the <hi>Discipline</hi> is to be urged.</p>
+               <p n="4">4. But the Elders of the Church have a <hi>Negative</hi> on the Votes of the <hi>Brethren:</hi> Who indeed in the exercise of their <hi>Liberty</hi> and <hi>Pri<g ref="char:EOLhyphen"/>viledge,</hi> are under the conduct of the <hi>Elders.</hi>
+               </p>
+               <pb n="37" facs="tcp:61798:19"/>
+               <p>To take away the <hi>Negative</hi> of the <hi>Elders,</hi> or the Necessity of their consent unto <hi>Church-acts,</hi> indeed is to take away all <hi>Government</hi> whatso<g ref="char:EOLhyphen"/>ever: and it is to turn the whole Regiment of the Church into a meer <hi>Democracy.</hi>
+               </p>
+               <p>And if the <hi>Positive</hi> of the Brethren can su<g ref="char:EOLhyphen"/>persede a <hi>Negative</hi> of the Elders, either the <hi>Elders</hi> may be driven to do things qui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e con<g ref="char:EOLhyphen"/>trary to the light of their Conseience, or else the <hi>Brethren</hi> may presume to do things which belong not unto them.</p>
+            </div>
+            <div n="14" type="case">
+               <head>CASE XIV. PROPOSITIONS,</head>
+               <argument>
+                  <p>Concerning <hi>ORDINATION.</hi>
+                  </p>
+               </argument>
+               <p n="1">1 A <hi>Solemn Separation</hi> to the Service of our Lord Jesus Christ in his Church is Es<g ref="char:EOLhyphen"/>sential to the call of a <hi>Church Officer.</hi>
+               </p>
+               <p n="2">2. The <hi>Election</hi> of the Church, and a <hi>com<g ref="char:EOLhyphen"/>pliance</hi> with, and <hi>acceptance</hi> of that <hi>Election,</hi> by a person coming under such a <hi>Separation,</hi> is that wherein lies the <hi>Essence</hi> of his call to Mi<g ref="char:EOLhyphen"/>nister unto that <hi>particular Church.</hi>
+               </p>
+               <p n="3">3. The <hi>Imposition of hands,</hi> in the <hi>Ordination</hi> of a <hi>Church Officer,</hi> is a Rite not only <hi>Lawful</hi> to be retained, but it seems by a Divine <hi>Institution</hi> directed and required; so that although the
+<pb n="38" facs="tcp:61798:20"/> Call of a person to <hi>Church. Office</hi> may not be<g ref="char:EOLhyphen"/>come <hi>null</hi> and <hi>void,</hi> where that <hi>Rite</hi> may have been omitted, as it is to the <hi>Seniors</hi> and <hi>Dea<g ref="char:EOLhyphen"/>cons</hi> in most of the <hi>Reformed Churches;</hi> yet we cannot approve the Omission of it: <hi>A Cere<g ref="char:EOLhyphen"/>monial Defect</hi> may be blame-worthy.</p>
+               <p n="4">4. When it is Enjoyned, <hi>Lay hands suddenly on no man;</hi> there seems a plain positive in that <hi>Negative,</hi> and it is implied, <hi>that hands are to be laid on some.</hi> Now when or where, but in <hi>Ordination?</hi>
+               </p>
+               <p n="5">5. The <hi>whole Ordination</hi> to a Ministry seems intended in the Apostles expression of, <hi>a gift given with the laying on of hands;</hi> yea, nothing less than the whole Ministry under that <hi>Ordination,</hi> seems comprized in the A<g ref="char:EOLhyphen"/>postles expression of, <hi>The Doctrine of Laying on of Hands.</hi> And such a <hi>Synecdoche</hi> inti<g ref="char:EOLhyphen"/>mates that this Rite is no inconsiderable <hi>part</hi> of that, whereof 'tis put for the <hi>whole.</hi>
+               </p>
+               <p n="6">6. The Church of God in all Ages has used an <hi>Imposition of hands,</hi> as a <hi>Rite</hi> many ways agreeable to the Will of God; and besides the use of this <hi>Rite</hi> sometimes on <hi>Miraculous Accounts,</hi> use of it on <hi>Ecclesiastical Ac<g ref="char:EOLhyphen"/>counts;</hi> not <hi>conferring,</hi> but <hi>confessing</hi> of <hi>Qualifi<g ref="char:EOLhyphen"/>cations,</hi> in the Subjects that received it. Which <hi>one Reason</hi> hath in it many and weighty con<g ref="char:EOLhyphen"/>siderations.</p>
+               <p n="7">
+                  <pb n="39" facs="tcp:61798:20"/>7. The <hi>Imposition</hi> of <hi>Hands,</hi> being a <hi>Rite</hi> used by the <hi>Primitive Church,</hi> even in the <hi>Confirming</hi> and <hi>Restoring</hi> of <hi>Church Members,</hi> and this not altogether without the countenance of <hi>Scripture,</hi> it seems very much to take away pretence for laying it aside, in the <hi>Ordination</hi> of <hi>Church-Officers.</hi>
+               </p>
+               <p n="8">8. 'Tis well known, that the <hi>Jews</hi> even in their <hi>Schools,</hi> and almost every <hi>Special work</hi> for God, whereto men were set apa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, used <hi>Imposi<g ref="char:EOLhyphen"/>tion of Hands,</hi> as a <hi>Rite</hi> accompanying such a <hi>Dedication.</hi>
+               </p>
+               <p n="9">9. The <hi>Imposition of Hands</hi> having been a <hi>Rite,</hi> which the people of God under the old Testament, in his Name, applyed unto such purposes as, a <hi>Benediction</hi> of a person, a <hi>Desig<g ref="char:EOLhyphen"/>nation</hi> to a function, an <hi>Oblation</hi> of what was to be presented unto God, and a <hi>Devolution</hi> of certain burdens on the heads of such as were treated with it: The Lord has continued this Rite in the <hi>Ordaining</hi> of <hi>Church Officers,</hi> with some eye to such intents and purposes.</p>
+               <p n="10">10. Most unexceptionable is the <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>position of Hands</hi> by a <hi>Presbytery,</hi> in <hi>Ordination,</hi> but more exceptionable by a <hi>Fraternity.</hi> The word of God mentions the <hi>former</hi> expressly; but not the <hi>latter,</hi> in the <hi>New-Testament.</hi> They were such Hands as <hi>Titus</hi>'s that were left to <hi>Ordain Elders;</hi> what need of that, if the <hi>Hands</hi> of com<g ref="char:EOLhyphen"/>mon believers were sufficient? They were such
+<pb n="40" facs="tcp:61798:21"/> Hands as <hi>Timothy</hi>'s, that were to <hi>make over</hi> Church betrustments, <hi>unto faithful men, able to teach others:</hi> who sitter to signisie the n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eded approbation of other Churches? And inaimuch as in <hi>Ordination,</hi> there is an acknowledgement of Admission into an <hi>Order,</hi> 'tis but reasonable, that some who are in some <hi>Order</hi> of <hi>Church. Power</hi> should give it.</p>
+            </div>
+            <div n="15" type="case">
+               <head>CASE XV. PROPOSITIONS,</head>
+               <argument>
+                  <p>Touching the Power of <hi>CHOOSING</hi> a <hi>Pastor.</hi>
+                  </p>
+               </argument>
+               <p n="1">I. A <hi>Society of Believers,</hi> combined for the Worship of the Lord Jesus Christ in all his Ordinances, have the right of <hi>Choosing</hi> the <hi>Paster,</hi> that is to Administer unto them these Ordinances.</p>
+               <p>The Scriptures do still call for the <hi>Suffrages</hi> of the <hi>Brethren</hi> in the Churches for all <hi>Elections</hi> in those Churches, and particularly, that of <hi>Elders.</hi>
+               </p>
+               <p>In the oldest and the purest of its times, we still find the <hi>Brethren</hi> of the Church, possessed of a power to <hi>choose for it self,</hi> and the destructi<g ref="char:EOLhyphen"/>on of that power; was among none of the earliest Encroachments of <hi>Antichrist.</hi>
+               </p>
+               <p>The <hi>Jus Patronatus</hi> in some Churches pre<g ref="char:EOLhyphen"/>tended
+<pb n="41" facs="tcp:61798:21"/> unto, is an usurpation upon the Flock of God, justly to be exploded.</p>
+               <p>The pretences of the <hi>Civil Magistrate</hi> unto the like disposal for the same causes, were for many ages no less justly than sharply deny'd.</p>
+               <p n="2">
+                  <hi>II.</hi> A <hi>Particular Church</hi> owing a great regard unto the <hi>Church Catholick</hi> in the using of its <hi>own right,</hi> is bound in Duty, to consult the Sa<g ref="char:EOLhyphen"/>tisfaction and Edification of <hi>others,</hi> in their Election of a <hi>Pastor.</hi>
+               </p>
+               <p>
+                  <hi>Ministers</hi> and <hi>Messengers</hi> of Neighbouring Churches, have pow'r to except against any <hi>Election</hi> of a Pastor, who by <hi>Errors</hi> or <hi>Scandals</hi> may be rendred unsit for the common Service of the Gospel.</p>
+               <p>Churches in the Election of a <hi>Pastor</hi> are to consider the benefit of all that are to be his <hi>Hearers;</hi> and more particularly, the concurrence of such as are by the <hi>Covenant</hi> and <hi>Appointment</hi> of God, under the <hi>Church Watch</hi> among them.</p>
+               <p n="3">
+                  <hi>III.</hi> The respect that Churches do show unto others, in the <hi>Election</hi> of a <hi>Pastor,</hi> ought so to be managed, as that they do not permit their own <hi>just Priviledges</hi> to be extinguished, by any <hi>An<g ref="char:EOLhyphen"/>ticipating Impositions</hi> upon them.</p>
+               <p>Churches may suffer their <hi>Elections</hi> to be <hi>Directed,</hi> yea, and be <hi>Diverted</hi> by considerations, which they owe to others in the <hi>Vicinity,</hi> with<g ref="char:EOLhyphen"/>out surrendring their <hi>Liberties</hi> to be <hi>Smothered</hi> by any that would unjustly Impose thereupon.</p>
+            </div>
+            <div n="16" type="case">
+               <pb n="42" facs="tcp:61798:22"/>
+               <head>CASE XVI. A QUESTION.</head>
+               <argument>
+                  <p>Whether there be any Cases, wherein a Minister of the Gospel, may lay down his Ministry?</p>
+               </argument>
+               <p n="1">
+                  <hi>I.</hi> NO man can rightly, wisely, or safely, become a <hi>Minister of the Gospel,</hi> with<g ref="char:EOLhyphen"/>out a <hi>Call</hi> of God, which call is mediate and manifested by <hi>Ministerial Gifts,</hi> with some <hi>In<g ref="char:EOLhyphen"/>clination</hi> and <hi>Opportunity</hi> to exercise those gifts.</p>
+               <p n="2">
+                  <hi>II.</hi> When a Minister of the Gospel does by the compelling Providence of God become <hi>De<g ref="char:EOLhyphen"/>prived</hi> of those <hi>Essential things</hi> whereby his <hi>Call</hi> was discovered, without any rational prospect of <hi>Recovering</hi> them, he may then lay down his <hi>Ministry.</hi>
+               </p>
+               <p n="3">
+                  <hi>III.</hi> But before one <hi>called</hi> unto the <hi>Ministry,</hi> do relinquish it, there should be such a <hi>Concur<g ref="char:EOLhyphen"/>rence</hi> of <hi>Incapacities,</hi> that a persons own <hi>Arbitrary Inclinations</hi> acted by <hi>Temptations</hi> may not be the thing that shall dismiss him. One consecrated unto the <hi>Ministry</hi> is thus <hi>Pro termino vitae;</hi> nor may a man setting his hand unto this <hi>Plough,</hi> at his own pleasure <hi>Look back.</hi>
+               </p>
+               <p n="4">
+                  <hi>IV.</hi> For one in the Sacred <hi>Ministry</hi> to leave it for the sake of <hi>Riches</hi> or <hi>Honours</hi> more likely to be acquired in another way of living, or for
+<pb n="43" facs="tcp:61798:22"/> the sake of <hi>Discouragement</hi> arising from <hi>Unsuc<g ref="char:EOLhyphen"/>cesifulness,</hi> or <hi>Persecution,</hi> or other difficulties, is no ways allowable.</p>
+               <p n="5">
+                  <hi>V.</hi> A person disabled by the <hi>Infirmities</hi> of <hi>Old Age</hi> or <hi>Weakness,</hi> for the labour of the Ministry, still retaining his <hi>Office,</hi> is to be still consider'd in the dutiful regards of the Church as their <hi>Pastor</hi> notwithstanding.</p>
+               <p n="6">
+                  <hi>VI.</hi> A <hi>Censure,</hi> though an unjust one, of a <hi>Civil Magistrate,</hi> silencing of a <hi>Particular Mini<g ref="char:EOLhyphen"/>nister,</hi> may in some cases be a sufficient Reason for his forbearing to do his word for <hi>Some time,</hi> or at <hi>This Place,</hi> though it release him not from the obligations of his <hi>Holy Calling.</hi>
+               </p>
+               <p n="7">
+                  <hi>VII.</hi> The <hi>Disasters</hi> which have been observed, as frequently following those who have deser<g ref="char:EOLhyphen"/>ted their <hi>Spiritual Warfare,</hi> without the leave of the Lord, are just Admonitions unto all Mini<g ref="char:EOLhyphen"/>sters of our Lord, against any <hi>undue Desertion</hi> of the Service wherein they have been listed.</p>
+            </div>
+            <div n="17" type="case">
+               <head>CASE XVII. A QUESTION.</head>
+               <argument>
+                  <p>Whether the Pastor of a Church, upon a <hi>Common Fame</hi> of a Scandal commitied by any in his Church, be bound in duty, to Enquire into that Scandal, although there should not be brought any Formal Complaint unto him of it?</p>
+               </argument>
+               <p n="1">
+                  <pb n="44" facs="tcp:61798:23"/>1. ACcording to the Apostolical direction, an <hi>Enquiry</hi> into an offence was ordered upon this consideration. 1 <hi>Cor. 5. 1. It is reported Commonly.</hi>
+               </p>
+               <p n="2">2. The Elders of <hi>Israel,</hi> were to make enqui<g ref="char:EOLhyphen"/>ry into an Offence after this manner. <hi>Deut. 13. 12, 14. If thou shalt hear say,—Then shalt thou enquire and make search and ask diligently.</hi>
+               </p>
+               <p n="3">3. The Commendation of a <hi>Civil Ruler</hi> does by proportion and parity of Reason, belong to an <hi>Ecclesiastical</hi> one. <hi>Job 29. 16. The cause which I knew not, I searched out.</hi>
+               </p>
+               <p n="4">4. The same that may move <hi>others</hi> to com<g ref="char:EOLhyphen"/>plain of a <hi>Scandal</hi> unto the <hi>Pastor</hi> should move the <hi>Pastor</hi> to enquire after a <hi>Reported Scandal,</hi> namely, the <hi>Glory</hi> of the Lord, the <hi>Defence</hi> of the Church, and the <hi>Welfare</hi> of the Erring Per<g ref="char:EOLhyphen"/>son, every one of which will suffer, if such en<g ref="char:EOLhyphen"/>quiry be not made.</p>
+               <p n="5">5. The <hi>Neighbours</hi> may be so far under the power of Temptation, as to forbear making <hi>Orderly Delations</hi> of <hi>Scandals</hi> committed; and it is therefore necessary, that such things fall un<g ref="char:EOLhyphen"/>der the enquiry of the <hi>Pastor,</hi> thereto by <hi>Com<g ref="char:EOLhyphen"/>mon Fame</hi> alarmed.</p>
+               <p n="6">6. The <hi>Pastor</hi> of a Church is by Office to <hi>Watch over the Conversation</hi> of the people; and a noise of a <hi>Scandal</hi> arisen in the <hi>Conversation</hi> of those under his <hi>Watch,</hi> is a sufficient provocation for his enquiry after it.</p>
+               <p n="7">
+                  <pb n="45" facs="tcp:61798:23"/>7. Finally, a <hi>Rumour</hi> of a Scandal in a Church-member is that wherein the <hi>Name</hi> of the Lord Jesus Christ is concerned; and for the Vindication of that <hi>Worthy Name,</hi> an enqui<g ref="char:EOLhyphen"/>ry being made into it, there may appear such powerful <hi>Presumptions,</hi> while there are not yet sufficient <hi>Convictions,</hi> of <hi>Guilt</hi> in the party con<g ref="char:EOLhyphen"/>cerned, that the person shall be bound (except in a <hi>Capital case</hi>) either to give a <hi>Positive de<g ref="char:EOLhyphen"/>nial,</hi> or to make a <hi>Penitent confession,</hi> of the mat<g ref="char:EOLhyphen"/>ter <hi>Commonly famed</hi> of him.</p>
+            </div>
+            <div n="18" type="case">
+               <head>CASE XVIII. A QUESTION.</head>
+               <argument>
+                  <p>How far the <hi>CONFESSIONS</hi> of a Guilty and a Troubled Conscience, are to be kept Secret, by the Minister, or Christian, to whom those Con<g ref="char:EOLhyphen"/>fessions have been made?</p>
+               </argument>
+               <p n="1">1. TIS very certain, that <hi>Ordinarily</hi> the <hi>Con<g ref="char:EOLhyphen"/>fessions</hi> of a guilty and a troubled <hi>Con<g ref="char:EOLhyphen"/>science</hi> are to be <hi>kept Secret</hi> by those to whom they are made. The <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ds</hi> for which the Lord Jesus Christ has directed such <hi>Confessions,</hi> would be all frustrated, if they should not be most Re<g ref="char:EOLhyphen"/>ligiously concealed; and they are made, <hi>as unto the Lord</hi>
+               </p>
+               <p n="2">2. Nevertheless, when any <hi>Evident Mischief</hi>
+                  <pb n="46" facs="tcp:61798:24"/> will arise, general or personal, either in point of <hi>Safety</hi> or of <hi>Justice,</hi> by the concealment of a <hi>Secret Confession:</hi> It is no longer to be kept secret.</p>
+               <p>In such Cases, the confessing person himself can have no ease in his own <hi>Conscience</hi> (which is the design of <hi>Confession</hi>) without <hi>publishing</hi> his <hi>own crime;</hi> and therefore here can be no obligation upon any other to <hi>assist</hi> him in <hi>Co<g ref="char:EOLhyphen"/>vering</hi> of it</p>
+               <p n="3">3. When the <hi>Endanger'd Safety and Interest of others</hi> make it necessary for the <hi>Confession</hi> of a <hi>Secret Sin</hi> to be exposed; it is sit for the person who has heard this Contession to advise the person himself that within a <hi>Time</hi> limited and convenient, he do himself make it known unto the persons concern'd; which if he fail to do, <hi>then is the time</hi> for the <hi>first hearer</hi> of the <hi>Confes<g ref="char:EOLhyphen"/>sion</hi> to do his duty.</p>
+               <p n="4">4. In the great <hi>Capitals,</hi> if there be other ways a Divulgation thereof; he that hath had the <hi>Confession</hi> of such a <hi>Secret Sin,</hi> may come in as a <hi>second witness,</hi> to reveal the secret, for the conviction of the <hi>Malefactor</hi> under <hi>judicial pro<g ref="char:EOLhyphen"/>cess.</hi>
+               </p>
+               <p n="5">5. Where the <hi>Consession</hi> of a <hi>Sec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et Sin</hi> is to be further divnlged, it is to be examin'd whe<g ref="char:EOLhyphen"/>ther the <hi>Sin</hi> may not be told, without the <hi>name</hi> of the person that has committed and confessed it.</p>
+               <p n="6">
+                  <pb n="47" facs="tcp:61798:24"/>6. A Minister of the Gospel, receiving of a <hi>Confession,</hi> oftentimes has cause to consider, whe<g ref="char:EOLhyphen"/>ther the person that makes it, may not make his <hi>Knowledge</hi> thereof, many ways injurious to (the said Minister) <hi>himself;</hi> and so he may with his best prudence provide against such <hi>Injuries.</hi>
+               </p>
+               <p n="7">7. In those <hi>Land defiling sins,</hi> where a person is not bound by a <hi>Confession</hi> to deliver himself up to the hazard of the Law, no Minister is bound, from the meer nature of the crimes to <hi>betray</hi> the <hi>Confession</hi> that has been made unto him.</p>
+            </div>
+            <div n="19" type="case">
+               <head>CASE XIX. A QUESTION.</head>
+               <argument>
+                  <p>What is the Duty owing from the Church, to per<g ref="char:EOLhyphen"/>sons who upon <hi>PRIVATE PREJUDICES</hi> Withdraw from the Communion of it?</p>
+               </argument>
+               <p n="1">1. PErsons that have taken up any <hi>private prejudices</hi> against any in the Communi<g ref="char:EOLhyphen"/>on of the Church, whereto they do belong, are directed by the <hi>Commandment</hi> of the Lord Je<g ref="char:EOLhyphen"/>sus Christ, and are Engaged by the <hi>Covenant</hi> of Watchfulness, to Endeavour the <hi>Repentance</hi> of the persons under supposed Offence, by a <hi>personal application.</hi>
+               </p>
+               <p n="2">2. They that upon <hi>Offences taken,</hi> do neglect this way of proceeding, are guilty of Sin a<g ref="char:EOLhyphen"/>gainst
+<pb n="48" facs="tcp:61798:25"/> the Lords <hi>Commandment,</hi> and their own <hi>Covenant,</hi> and by their <hi>withdrawing</hi> from the <hi>Table of the Lord,</hi> their Sin is <hi>aggravated.</hi>
+               </p>
+               <p n="3">3. The <hi>Withdraw</hi> of persons thus irregular<g ref="char:EOLhyphen"/>ly from the Communion of the Church, at the <hi>Lords Table,</hi> does carry an hard and high Im<g ref="char:EOLhyphen"/>putation upon the <hi>Church</hi> it self, which adds more of a <hi>fault</hi> unto so sinful a <hi>Schism.</hi>
+               </p>
+               <p n="4">4. If the Person that hath been <hi>Offended,</hi> hath done his duty, and either the <hi>Pastor</hi> do refuse to lay the matter before the <hi>Church</hi> for the Insignisicancy of it, or the <hi>Church</hi> upon the hearing of the matter do pronounce it <hi>sa<g ref="char:EOLhyphen"/>tisfied;</hi> The person is obliged still to continue his Communion with the Church, unless a <hi>Council</hi> of Churches declare the contrary.</p>
+               <p n="5">5. Such a sinful <hi>Separation</hi> from the Com<g ref="char:EOLhyphen"/>munion of the Church, being a <hi>moral evil,</hi> the Scandal is to be by the Discipline of the Church proceeded against as other <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nsureable Seandals.</hi> The Pastor upon observation and Information of the sin, is to send for the per<g ref="char:EOLhyphen"/>son withdrawing, and instruct, and counsel, and admonish him; And upon contumacious obstinacy, the <hi>Church</hi> is to deal with him, as one <hi>Unruly,</hi> and <hi>walking disorderly.</hi>
+               </p>
+               <p n="6">6. Nevertheless, <hi>Compassion</hi> towards the Igno<g ref="char:EOLhyphen"/>rant, or Injured, is very much to determine the more or less <hi>vigour</hi> wherewith such Offen<g ref="char:EOLhyphen"/>ces are to be prosecuted▪</p>
+            </div>
+            <div n="20" type="case">
+               <pb n="49" facs="tcp:61798:25"/>
+               <head>CASE XX. A QUESTION.</head>
+               <argument>
+                  <p>What Loan of Mony upon <hi>USURY</hi> may be Practised?</p>
+               </argument>
+               <p n="1">1. <hi>USury</hi> being an <hi>Advance</hi> on any thing len<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by Contract, it is not restrained unto <hi>Mony</hi> only. <hi>Victuals,</hi> or <hi>any other thing</hi> (as the Oracles of the Sacred Scripture declare un<g ref="char:EOLhyphen"/>to us) are capable of being <hi>Lent upon Usury▪</hi> The main difference of <hi>Usury</hi> from other ways of <hi>Dealing,</hi> is the Owners not running the Risque of the <hi>Principal.</hi>
+               </p>
+               <p n="2">2. That there is an <hi>Usury</hi> lawful to be taken, is from several passages in the Divine Law, sufficiently signified unto us. For first, under the <hi>Old Testament,</hi> God allowed unto his people the practice of <hi>Usury;</hi> he expresly said, Deut. 23. 20. <hi>Unto a Stranger thou marst lend upon Usu<g ref="char:EOLhyphen"/>ry.</hi> And the Allowance of <hi>Usury</hi> upon a Stran<g ref="char:EOLhyphen"/>ger had never been given, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Usury</hi> had in it any <hi>Intrinsick Turpitude;</hi> yea, in all the places of the <hi>Old Testament,</hi> prohibiting unto the <hi>Is<g ref="char:EOLhyphen"/>raelites,</hi> the demand of <hi>Usury upon a brother;</hi> there are clauses in the Context, which may seem to Intimate, as if the <hi>poor Brother</hi> only were intended in the prohibition. However
+<pb n="50" facs="tcp:61798:26"/> the peculiar constitution of the <hi>Israelitish Com<g ref="char:EOLhyphen"/>mon Wealth,</hi> is enough to release us <hi>Gentiles</hi> from the obligation of the <hi>Edicts</hi> against <hi>Usury,</hi> given thereunto; and the words of the <hi>Psal<g ref="char:EOLhyphen"/>mist</hi> and the <hi>Prophet,</hi> that seem to reproach <hi>Usury,</hi> must accordingly be expounded with a Limitation to the <hi>Usury</hi> which the Law had countermanded. Hence also in the <hi>New T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sta<g ref="char:EOLhyphen"/>ment,</hi> our Saviour has a passage of such Impor<g ref="char:EOLhyphen"/>tance, as to give countenance in, <hi>Mat.</hi> 25<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 27. unto a <hi>mans rec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iving his own with Usury;</hi> and in the <hi>New Testament</hi> also, <hi>John Baptist</hi> in Luk. 3. 13. forbad not unto the <hi>Publicans,</hi> that <hi>Usury</hi> which their <hi>Condition of life</hi> led them unto.</p>
+               <p n="3">3. There is every sort of <hi>Law,</hi> except the <hi>Popish,</hi> to Justifie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a regulated <hi>Usury.</hi>
+               </p>
+               <p>'Tis Justified by the Law of <hi>Necessity</hi> and <hi>Uti<g ref="char:EOLhyphen"/>lity; Humane Society,</hi> as now circumstan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, would sink, if all <hi>Usury</hi> were Impracticable.</p>
+               <p>'Tis Justified by the Law of <hi>Equity;</hi> it is very equal that a man should <hi>partake</hi> in the <hi>ben<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fits</hi> which his essate procures for another man. Yea, it may be the <hi>duty</hi> of another man, to <hi>give</hi> me an <hi>Usury;</hi> namely when he gains by my Possessions; it would be <hi>Iniquity</hi> in him to do otherwise: and certainly then, it cannot be a <hi>Sin,</hi> for me to <hi>take</hi> that which it is his <hi>du<g ref="char:EOLhyphen"/>ty</hi> to <hi>give.</hi>
+               </p>
+               <p>'Tis Justified by the Law of <hi>parity;</hi> there is no manner of reason, why the <hi>Usury</hi> of <hi>Money</hi>
+                  <pb n="51" facs="tcp:61798:26"/> should be more faulty, than that of any <hi>other thing;</hi> for <hi>Money</hi> is as really <hi>Improveable</hi> a thing a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any other; and it is rather <hi>more</hi> than <hi>less productive</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> advantage to him that hath it. There can be no <hi>reasonable pretence</hi> that should bind me to lend my <hi>Money</hi> for nothing, father than any other Commodity whatsoever: nor can a <hi>Contract</hi> in this case be more blameable, than in any other.</p>
+               <p>Nor is it contrary to the <hi>Law of Charity,</hi> that a man should expect something for the support &amp; comfort of his own <hi>Family,</hi> for the <hi>profit able use,</hi> which other men make of those things whereof he is himself the <hi>Proprietor.</hi>
+               </p>
+               <p n="4">4. Nevertheless the <hi>Law of Charity</hi> is to re<g ref="char:EOLhyphen"/>gulate our <hi>Usury,</hi> that it may not become <hi>Un<g ref="char:EOLhyphen"/>lawful,</hi> by the <hi>biting Extremity,</hi> into which it may otherwise be carried.</p>
+               <p>It is an eternal and a glorious Rule of <hi>Cha<g ref="char:EOLhyphen"/>rity,</hi> that in dealing with a Neighbour, a man must propose his <hi>Neighbours advantage,</hi> as well as <hi>his own,</hi> and he should not prop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se to make his <hi>own advantage,</hi> by adding to his <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ighbours misery.</hi> Moreover, when the general Rules of <hi>Charity</hi> oblige a man to relieve the Necessi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e; of a Neighbour, and to remit of what he might have exacted from a Neighbour, if it had not been for these Necessities; <hi>Usury</hi> must not supersede that <hi>Charity.</hi>
+               </p>
+               <p>Whence also, to demand <hi>Usury</hi> from the
+<pb n="52" facs="tcp:61798:27"/>
+                  <hi>Poor,</hi> when we accommodated them for their meer <hi>necessary Sustenance and Subsistence,</hi> is a sin; 'tis a sin likewise to refuse helping the <hi>Poor,</hi> because we would keep all that we have to serve the designs of <hi>Usury.</hi>
+               </p>
+               <p>Nor can it be any other than a <hi>sin,</hi> to require as much for <hi>Usury</hi> as for <hi>Hire;</hi> which are carfully to be distinguished: And an <hi>Idl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Usury,</hi> which is when men so confine th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mselves <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the way of living up<g ref="char:EOLhyphen"/>on <hi>Usury,</hi> as to render themselves otherwise <hi>unuseful</hi> unto the Publick: This is justly become a thing of an evil character. But yet in all these things, the Application of t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Rules of Charity,</hi> is to be left unto a mans own <hi>Conscience,</hi> which is to be advised from the Word of God, with the best helps of understanding that Word.</p>
+               <p>All these things being thus consider<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, the several declamations of the <hi>Antients</hi> against <hi>Usury,</hi> must be of no farther account with us, than their discourses against <hi>Limning,</hi> or <hi>Swearing,</hi> or <hi>Fighting,</hi> or Sitting, and Acting in a Court of <hi>Civil Judicature.</hi>
+               </p>
+            </div>
+            <div n="21" type="case">
+               <pb n="53" facs="tcp:61798:27"/>
+               <head>CASE XXI. A QUESTION.</head>
+               <argument>
+                  <p>Whether it be in the power of men <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o Sta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>DAYES</hi> of Religious Worship?</p>
+               </argument>
+               <p n="1">1. NO <hi>Time</hi> is to be made <hi>Holy to the Lord,</hi> but what is made <hi>Holy by the Lord:</hi> and if there be no <hi>Institution</hi> of God, the Great <hi>Lord of Time,</hi> for a <hi>Stated Time</hi> to be made <hi>Holy</hi> to himself, 'tis a <hi>Superstition</hi> in any man to make it so.</p>
+               <p n="2">2. Very sensible is the difference between <hi>Taking a Time,</hi> to do a <hi>Sacred Work,</hi> and <hi>Doing a Work</hi> to keep a <hi>Stated Time;</hi> The <hi>Light of Nature</hi> tells us, there must be a <hi>Time for every work;</hi> but it is only the <hi>Fourth Commandment</hi> of God, that separates <hi>one time</hi> from the rest, for the <hi>constant per<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmance</hi> of <hi>Religious Work</hi> upon it.</p>
+               <p n="3">3. To esteem any <hi>good work</hi> the better for its being done on such or such a <hi>Re<g ref="char:EOLhyphen"/>turn of Time,</hi> which God hath not in His Word set apart for it, is to make the <hi>Time</hi> it self a <hi>part</hi> of the Worship; and it is an unwar<g ref="char:EOLhyphen"/>rantable Imp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sing upon <hi>Heaven</hi> with our <hi>own Inventions.</hi>
+               </p>
+               <p n="4">
+                  <pb n="54" facs="tcp:61798:28"/>4 Solemn <hi>Humiliations,</hi> and <hi>Thanksgivings</hi> are m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ral duties to be observed, <hi>Pro causis et temporibus.</hi> And the Direction of <hi>Divine Provide<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce,</hi> in laying before us the <hi>Fresh Occa<g ref="char:EOLhyphen"/>sions</hi> of them, is to be regarded; which can<g ref="char:EOLhyphen"/>not be done, if they be made <hi>Perpetual.</hi>
+               </p>
+               <p n="5">5. The Church of <hi>Israel,</hi> kept no days of <hi>Re<g ref="char:EOLhyphen"/>ligious Worship,</hi> except what were of <hi>Divine In<g ref="char:EOLhyphen"/>stitution.</hi> The days of <hi>Purim</hi> are by a different Hebrew word for them plainly intimated, to have been of no other Character, than <hi>Political Commemorations;</hi> and besides, <hi>Mordecai</hi> who or<g ref="char:EOLhyphen"/>dered them, was a <hi>Prophet.</hi> The feast of <hi>De<g ref="char:EOLhyphen"/>dication</hi> among the Jews, can have nothing pleaded for it, from the <hi>Presence</hi> of our Lord at it; nor were the former <hi>Dedications</hi> of the <hi>Temple</hi> under any <hi>Anniversary Commemorations.</hi>
+               </p>
+               <p n="6">6. 'Tis not a <hi>Work,</hi> but a <hi>Word,</hi> that must <hi>Sanctifie a day;</hi> and if an <hi>Extraordinary work of God,</hi> were enough to prefer one day before another, for the Devotions of Christianity, the <hi>Protestant Kalender,</hi> must soon be as full as the <hi>Popish.</hi>
+               </p>
+               <p n="7">7. When the Apostle <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amed the <hi>Galatians</hi> for <hi>Observing of Days,</hi> which <hi>God</hi> himself had <hi>Instituted;</hi> much more does he blame us, if we celebrate such days as only <hi>Men</hi> have <hi>Devised.</hi> And when the Apostle forbad the <hi>Colossians,</hi> to <hi>let any man Judge them in respect of an holy day,</hi> he suffers not us to sacrifice our <hi>Christian Liberty</hi>
+                  <pb n="55" facs="tcp:61798:28"/> unto humane Impositions of <hi>Stated Holy days</hi> upon us, nor a <hi>Private person,</hi> to impose them upon himself.</p>
+            </div>
+            <div n="22" type="case">
+               <head>CASE XXII. A QUESTION.</head>
+               <argument>
+                  <p>Whether it be Lawful to Eat <hi>BLOOD?</hi>
+                  </p>
+               </argument>
+               <p>WE judge it lawful to <hi>Eat Blood</hi> for the following Reasons.</p>
+               <p n="1">1. Plain are the words of the Apostle. <hi>Rom. 14 14, I know and am perswaded by the Lord Je<g ref="char:EOLhyphen"/>sus, that there is nothing unclean of it self:</hi> In which passage, there may be respect unto those words of the <hi>Lord Jesus.</hi> Matt. 15. 11. <hi>Not that which goeth into the mouth, defileth the man.</hi>
+               </p>
+               <p n="2">2. The Scriptures o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>New-T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stament</hi> give an allowance for eating of <hi>all sorts of meat,</hi> wherein <hi>Blood</hi> is included. The Scripture speaks of him, as an <hi>Orthodox man.</hi> Rom. 14. 2. <hi>Who believeth he may eat all things;</hi> Intintating that it was from <hi>weakness of Faith,</hi> and ignorance in the Doctrine of the Gospel, to <hi>doubt</hi> about it. The Scripture condemns the Superstition of chos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 1 Tim. 4 3, 4. <hi>Who abstain from meats, which God had created to be received with thanks<g ref="char:EOLhyphen"/>giving; for nothing is to be refused:</hi> If <hi>nothing</hi> then sure not <hi>Blood.</hi> The Scripture permits us
+<pb n="56" facs="tcp:61798:29"/> that <hi>Liberty.</hi> 1 Cor. 10 25. <hi>Whatsoever is sold in the Shambles, that eat, asking no question for Con<g ref="char:EOLhyphen"/>science sake;</hi> now it was usual to Sell <hi>Blood</hi> in the Shambles.</p>
+               <p n="3">3. The use of <hi>Blood</hi> in <hi>Medicine</hi> is not question'd: the <hi>Spirit</hi> and the <hi>Powder</hi> of <hi>Blood,</hi> is by the warrant of the Sixth Commandment, freely used for our <hi>Health:</hi> why then should the use of <hi>Blood</hi> in <hi>Diet,</hi> be any Question.</p>
+               <p n="4">4. If a <hi>thing Strangled</hi> may be eaten, then <hi>Blood</hi> may be so too; but Christians do not ordinarily Scruple to eat a <hi>thing Strangled;</hi> And the <hi>Eating of a thing which dies of it self</hi> (which is the same case) was never unlawful for the Gentiles.</p>
+               <p n="5">5. The reason of the precept forbidding <hi>Blood</hi> to the Jews, was meerly <hi>Ceremonial;</hi> namely, because <hi>Blood</hi> was Typical of that great <hi>Blood,</hi> that makes Attonement for our <hi>Sins;</hi> and be<g ref="char:EOLhyphen"/>cause, being the <hi>Organ</hi> of <hi>Life,</hi> it must be Sa<g ref="char:EOLhyphen"/>cred unto God, the <hi>Author</hi> of <hi>Life;</hi> now since the Blood of our Lord Jesus Christ has been shed, every <hi>Precept,</hi> which was only <hi>Ceremonial,</hi> is abrogated.</p>
+               <p n="6">6. The forbidding of <hi>Blood</hi> unto <hi>Noah, Gen.</hi> 9 4. seems to have been of <hi>Living Blood,</hi> and for the prevention of that <hi>Bloody</hi> ferocious, in<g ref="char:EOLhyphen"/>humane disposition, which was then prevailing in the world; and all the Commandments given to <hi>Noah,</hi> were not <hi>Moral.</hi>
+               </p>
+               <p n="7">
+                  <pb n="57" facs="tcp:61798:29"/>7. The forbidding of <hi>Blood</hi> unto the Pri<g ref="char:EOLhyphen"/>mitive Christians, <hi>Acts</hi> 15 13 was a <hi>Temporary Advice,</hi> for the avoiding of <hi>Scandals.</hi> It would not only have prejudiced the <hi>Jews</hi> against all <hi>Christianity,</hi> but also it should have confirm'd the <hi>Pagans</hi> in their <hi>Idolatry;</hi> for the principal in<g ref="char:EOLhyphen"/>tanglements of their <hi>Idolatry</hi> lay in these four things, <hi>Idolothytes, Fornication, Blood,</hi> and <hi>Stran<g ref="char:EOLhyphen"/>gulates;</hi> which are else where Summ'd up in two, <hi>the Eating things Sacrificed unto Idols, and committing Fornication:</hi> To forbear these things, was to testifie a <hi>Renunciation of Heathenssm;</hi> to use any of these things among the <hi>Heathen,</hi> was to justifie their <hi>Devil-Worship.</hi> Now the world is in other Circumstances; and, <hi>Cessatio causae, efficit ut cessaret observatio. Fornication</hi> yet remaining upon other, and farther, and moral, and more general accounts a <hi>Sin.</hi>
+               </p>
+            </div>
+            <div n="23" type="case">
+               <head>CASE XXIII. PROPOSITIONS;</head>
+               <argument>
+                  <p>Touching the Use of Signisicant <hi>CEREMONIES,</hi> in the Worship of God, not Instituted by Him.</p>
+               </argument>
+               <p n="1">1. THE <hi>Signs</hi> of <hi>Internal,</hi> are <hi>Parts</hi> of <hi>Ex<g ref="char:EOLhyphen"/>ternal</hi> Worship; in both whereof, the great God hath Commanded us to <hi>Glorific Him;</hi> even with our <hi>Spirits</hi> and with our <hi>Bodies which are His.</hi>
+               </p>
+               <p n="2">
+                  <pb n="58" facs="tcp:61798:30"/>2. There are <hi>Natural Ceremonies,</hi> with which the <hi>Light of Nature</hi> does direct men to Wor<g ref="char:EOLhyphen"/>ship God; and these are to be used in the Worship of God, as far as we have the <hi>Word of God</hi> reinforceing, and countenancing of them.</p>
+               <p n="3">3. Some <hi>Ceremonies</hi> of <hi>Respect</hi> among men are used in Exercises of <hi>Religion,</hi> but as Expressi<g ref="char:EOLhyphen"/>ons of <hi>Civility</hi> to the People of God, with whom we Assemble for the Worship of God; and these are to be distinguished from those <hi>Actions</hi> which we apply to the Lord himself immediately.</p>
+               <p n="4">4. There are <hi>Ceremonies</hi> appointed for some signification of <hi>Inward Graces,</hi> and <hi>Moral Duties,</hi> in the Worship of God; which without that <hi>Appointment,</hi> would not signifie what they do: And it is the <hi>Perogative</hi> of <hi>God</hi> alone to ordain <hi>all</hi> such <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ites as these.</p>
+               <p n="5">5. For men to take upon them, to declare what <hi>Ceremonies</hi> of Worship, the <hi>God</hi> of Hea<g ref="char:EOLhyphen"/>ven shall <hi>Accept</hi> and <hi>Reward</hi> and <hi>Bless,</hi> other<g ref="char:EOLhyphen"/>wise than he hath himself, in his Holy Law de<g ref="char:EOLhyphen"/>clared, is a very Criminal <hi>Presumption;</hi> And this <hi>Pride of man,</hi> has generally been chastised with a manifold <hi>Curse of God.</hi>
+               </p>
+               <p n="6">6. The <hi>Second Commandment,</hi> forbids not all <hi>Images</hi> (or significant Ceremonies) in the Worship of God, but, <hi>Thy making them for thy self.</hi>
+               </p>
+               <p n="7">7. The <hi>Authority</hi> of our Lord Jesus Christ as
+<pb n="59" facs="tcp:61798:30"/> the glorious <hi>King,</hi> and <hi>Prophet</hi> of his Church, is prophanely Invaded, when the Worship of God (with the <hi>Siguificant Ceremonies</hi> of it) is <hi>taught by the Inventions of men.</hi>
+               </p>
+               <p n="8">8. The Sacred Scriptures pronounce it an Argument sufficient for the rejecting and con<g ref="char:EOLhyphen"/>demning of any thing in the Worship of God: If God himself hath not <hi>prescribed</hi> it. Thus, <hi>Jer. 7. 3. They did that which I Commanded them not, neither came it into my heart.</hi> Thus, <hi>Heb.</hi> 7. 14. Of that <hi>Moses spake nothing.</hi> Thus, <hi>Levit. 10. 1. They offered strange fire before the Lord, which h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Commanded them not.</hi>
+               </p>
+               <p n="9">9. 'Tis very certain that under the <hi>Old Testa<g ref="char:EOLhyphen"/>ment,</hi> there was not one <hi>Significant Ceremony</hi> al<g ref="char:EOLhyphen"/>lowed in the Worship of God, but what God himself had Instituted. It the Churches of the <hi>New Testament</hi> will proceed in this matter with<g ref="char:EOLhyphen"/>out a <hi>Divine Institution,</hi> let them then produce their <hi>Charter</hi>
+               </p>
+               <p n="10">10. The Apostolical writings to the <hi>Galati<g ref="char:EOLhyphen"/>ans</hi> and the <hi>Colossians,</hi> forbid us to practice any <hi>Significant Ceremony</hi> in the Worship of God, which God himself had once <hi>Appointed,</hi> but now <hi>Abolished;</hi> much less may we now Practice any which God <hi>never Appointed at all.</hi>
+               </p>
+            </div>
+            <div n="24" type="case">
+               <pb n="60" facs="tcp:61798:31"/>
+               <head>CASE XXIV. PROPOSITIONS;</head>
+               <argument>
+                  <p>Concerning, <hi>SELF KILLING.</hi>
+                  </p>
+               </argument>
+               <p>ALbeit there are several Cases, wherein a man may do an <hi>Action,</hi> which will <hi>Even<g ref="char:EOLhyphen"/>tually</hi> and <hi>Unavoidably</hi> shorten his Life; Ne<g ref="char:EOLhyphen"/>vertheless for a man to do any <hi>Action</hi> with such a <hi>Design,</hi> is an unlawful and a very Cri<g ref="char:EOLhyphen"/>minal thing. He that shall <hi>directly intend</hi> the <hi>Abbreviation of his own Life,</hi> in any Action wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>soever, is therein guilty of a <hi>Murderous Action.</hi> For,</p>
+               <p n="1">1. By the <hi>Law of Nature,</hi> the <hi>Soul</hi> of man, is to affect Union with his <hi>Body;</hi> and <hi>no man bates his own Flesh. Self Killing</hi> is contrary to that Law.</p>
+               <p n="2">2. The <hi>Law of Scripture,</hi> forbids the <hi>Shedding of mans Blood,</hi> and the prohibition of <hi>Murder</hi> by that Law extends unto Ones <hi>own self</hi> as well as another.</p>
+               <p n="3">3. 'Tis very certain, that in the duties en<g ref="char:EOLhyphen"/>joyned by the <hi>Second Table</hi> of the Moral Law, every man is <hi>firstly</hi> concern'd for <hi>himself;</hi> and <hi>self-love</hi> is to give the <hi>Measure</hi> of our love to our <hi>Neighbour.</hi> He that seeks his <hi>own Death;</hi> do's proclaim his <hi>hatred of all the World.</hi>
+               </p>
+               <p n="4">
+                  <pb n="61" facs="tcp:61798:31"/>4. God who has given to man, a <hi>power</hi> over the <hi>life</hi> of <hi>other</hi> Creatures, has given him <hi>no power</hi> over <hi>his own.</hi> God has pre<g ref="char:EOLhyphen"/>serv'd this prerogative unto himself, <hi>I kill, and I make alive.</hi>
+               </p>
+               <p n="5">5. Our Lord Jesus Christ hath com<g ref="char:EOLhyphen"/>manded us to <hi>Pray every Day</hi> for the <hi>Means of Life,</hi> even our <hi>daily Bread:</hi> By consequence then, for <hi>life</hi> it self But if we must <hi>pray</hi> for <hi>life,</hi> 'tis very plain, we may not <hi>shorten</hi> it.</p>
+               <p n="6">6. While we <hi>Live,</hi> we have many <hi>Opportunities</hi> to <hi>Glorify</hi> the <hi>God of our Life,</hi> which we cannot have, when this <hi>Life</hi> is ended. And it is vile <hi>Ingratitude, Impatience,</hi> and <hi>Impiety</hi> for a man to throw away those <hi>Opportunities.</hi>
+               </p>
+               <p n="7">7. Every man is a Member of the <hi>Communi<g ref="char:EOLhyphen"/>ty</hi> and <hi>Society</hi> wherein he Lives; and it is an <hi>Unrighteous</hi> thing, for him to <hi>deny,</hi> and so to <hi>destroy</hi> at once all the <hi>Service,</hi> which God has made him capable of doing in that <hi>Commu<g ref="char:EOLhyphen"/>nity.</hi>
+               </p>
+               <p n="8">8. <hi>Self-Slaughter</hi> always proceeds from <hi>Evil Causes.</hi> As <hi>Pride, Sorrow, Despair, Cowardise;</hi> Things condemned in the Word of God. And no <hi>Good Causes</hi> can be assign'd for it, No pretences, no excuses will be found of any weight, in the ballances of true Religion.</p>
+               <p n="9">9. Five <hi>Suicides</hi> are mentioned in the Bible; and every one of them are mention'd with an <hi>Ill mark</hi> upon them.</p>
+               <div type="corollary">
+                  <pb n="62" facs="tcp:61798:32"/>
+                  <head>Corollary.</head>
+                  <p>Hence, notwithstanding our hopes for them that under <hi>madness,</hi> lay violent hands upon themselves, 'tis neither <hi>safe</hi> nor <hi>sit</hi> for us to be very free, in our expressing our hopes, for those who have done so, without full evidence of such symptomes upon them, whatever may have been their <hi>former Conversation.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="25" type="case">
+               <head>CASE XXV. A QUESTION.</head>
+               <argument>
+                  <p>Whether the Games of <hi>CARDS,</hi> or <hi>DICE,</hi> be Lawful to be used, among the Professors of the Christian Religion?</p>
+               </argument>
+               <p n="1">1. THere is at the least a great suspicion, brought on the <hi>lawfulness</hi> of these Games by the <hi>Lottery</hi> which they tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n upon.</p>
+               <p>
+                  <hi>Lotts</hi> being mentioned in the Sacred Oracles of the Scripture, as used only in <hi>weighty Cases,</hi> and as an acknowledgment of <hi>God Sitting in Judgment,</hi> with a desire of his <hi>Power</hi> and <hi>Pro<g ref="char:EOLhyphen"/>vidence</hi> to be maniselted, and not without an <hi>Invocation of God</hi> for the <hi>end of strife,</hi> therein implyed: They cannot be made the <hi>tools</hi> and <hi>parts</hi> of our common <hi>Sports,</hi> without, at least
+<pb n="63" facs="tcp:61798:32"/> such an <hi>appearance of evil</hi> as is forbidden in the Word of God.</p>
+               <p n="2">2. The <hi>General Rules</hi> which in all Recreati<g ref="char:EOLhyphen"/>ons are to be observed, are so generally trans<g ref="char:EOLhyphen"/>gressed in these <hi>Games,</hi> that ordinarily it can be no other than a sin to use them.</p>
+               <p>These Diversions <hi>Fascinate</hi> the minds of those that practice them, at such a rate, that if ever those persons come to be Converted unto God, they'l bitterly lament the <hi>Loss of time,</hi> in which that practice has involv'd them. And the many other <hi>passions</hi> and <hi>follies</hi> almost inseperable from these Diversi<g ref="char:EOLhyphen"/>ons, render the Diversions themselves to be <hi>Sins</hi> against the <hi>Commandments,</hi> which prohi<g ref="char:EOLhyphen"/>bit <hi>the Evils</hi> thereby occasioned.</p>
+               <p n="3">3. The <hi>Scandal</hi> of these Games, declares it a scandalous thing for <hi>Christians</hi> to meddle with them.</p>
+               <p>The <hi>Ill Character</hi> given to these Usages, not only by <hi>Christians</hi> of all sorts and ranks, and in all ages, whose just invectives against them would fill Volumes; but by the sober and moral <hi>Pagans</hi> also; has brought them among the <hi>things of evil report,</hi> which by <hi>Christians</hi> are to be avoided. That mans heart is in<g ref="char:EOLhyphen"/>ordinately set upon <hi>Play,</hi> who had rather do things under such an <hi>universal condemnation,</hi> than forbear a little <hi>play,</hi> that may certainly be forborn without any damage at all.</p>
+               <p n="4">
+                  <pb n="64" facs="tcp:61798:33"/>4. <hi>Gains</hi> of Money or Estate by <hi>Games,</hi> be the <hi>Games</hi> what they will, are a sinful violation of the Law of <hi>Honesty</hi> and <hi>Industry</hi> which God has given us.</p>
+            </div>
+            <div n="26" type="case">
+               <head>CASE XXVI. PROPOSITIONS,</head>
+               <argument>
+                  <p>Touching the Respect that is due to <hi>PLACES</hi> of Publick Worship.</p>
+               </argument>
+               <p>
+                  <hi>HOly Places</hi> were appointed under the Law of old, by the Great <hi>Law-giver</hi> of <hi>Is<g ref="char:EOLhyphen"/>rael,</hi> partly to prevent <hi>Idolatry</hi> among the peo<g ref="char:EOLhyphen"/>ple, but chiefly to direct the <hi>thoughts</hi> of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aithful unto the <hi>Messiah,</hi> wherein God was resolved to dwell for ever. Notwithstanding</p>
+               <p n="1">
+                  <hi>I.</hi> There is now <hi>no place</hi> which renders the Worship of God more acceptable for its being there performed. It is foretold concerning the times of the Gospel; in Zeph. 2. 11, Men <hi>shall worship him, every one from his place.</hi>
+               </p>
+               <p>It is foretold in Mal. 1. 11. <hi>In every place Incense shall be offered to my name, and a pure offering.</hi>
+               </p>
+               <p>It is foretold, in <hi>Joh.</hi> 4. 24. That the <hi>Spiri<g ref="char:EOLhyphen"/>tual Worship of God,</hi> shall now be <hi>accepted</hi> with him, in <hi>other places</hi> as well as in <hi>Jerusalem.</hi>
+               </p>
+               <pb n="65" facs="tcp:61798:33"/>
+               <p>We are commanded, in 1 Tim. 2. 8. <hi>That men pray in every place.</hi> There is a truth in the famous Dr. <hi>Ushers</hi> observation, <hi>In times of Perse<g ref="char:EOLhyphen"/>cution, the Godly did often meet in Barns, and such obscure places, which were indeed publick, be<g ref="char:EOLhyphen"/>cause of the Church of God there, as wherever the Prince is, there is the Court, though it were in a poor Cottage.</hi>
+               </p>
+               <p>There were <hi>parts</hi> of Worship in the <hi>Mosaick Padagogy,</hi> which could not be performed any where but at the <hi>Holy Places</hi> appointed. There are <hi>no parts</hi> of Worship consined unto any <hi>places</hi> under the <hi>New Testament.</hi>
+               </p>
+               <p>They who expect the <hi>Divine Regard</hi> for what they do in the Worship of God, because 'tis done in this or that <hi>place,</hi> do not pray, <hi>look<g ref="char:EOLhyphen"/>ing towards the Temple;</hi> our Lord Jesus Christ the true <hi>Temple</hi> of God, is therein over looked.</p>
+               <p n="2">2. To <hi>prepare</hi> and <hi>repair</hi> Places for the <hi>Pub<g ref="char:EOLhyphen"/>lick Worship</hi> of God, and keep those places in such a condition, that they be not unfit for the solemn Exercises of Religion; This is but an act of Obedience to him, who when he re<g ref="char:EOLhyphen"/>quires <hi>Worship</hi> from us, doth also suppose that there must be <hi>places</hi> for it; but the setting of those places off, with a <hi>Theatrical Gaudiness,</hi> does not savour of the Spirit of a true Christi<g ref="char:EOLhyphen"/>an simplicity.</p>
+               <p n="3">3. While the <hi>Duties</hi> of Divine Worship are performing in any <hi>Places,</hi> an Agreeable <hi>Reve<g ref="char:EOLhyphen"/>rence</hi>
+                  <pb n="66" facs="tcp:61798:34"/> is to be maintained in those <hi>places,</hi> not so much out o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> respect unto the <hi>Places,</hi> as unto the <hi>duties</hi> the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ein performed, and the <hi>persons</hi> concern'd with us in the Duties; nevertheless, the <hi>Synagogues</hi> also are to be consider'd as, <hi>The Houses of God.</hi>
+               </p>
+               <p n="4">4. To offer <hi>affronts</hi> unto <hi>Places</hi> built for the Worship of God, with design therein to affront the <hi>Worship</hi> for which they are <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uilt, is a vile <hi>Impiety;</hi> nor wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l the Great God, <hi>hold them guiltless,</hi> who so <hi>take His Name in vain.</hi>
+               </p>
+               <p n="5">5. <hi>Places</hi> intended for the Sacred Worship of God, may lawfully be put into any <hi>Civil Service,</hi> for which they may be accommoda<g ref="char:EOLhyphen"/>ted, at the <hi>times</hi> when the Sacred Worship is not there to be attended; so far as <hi>contempt</hi> of God and his Ordinances, doth not naturally and necessarily follow thereupon; even as <hi>Courts</hi> were kept in the <hi>Synagoues</hi> among the <hi>Jew<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+            </div>
+            <div n="27" type="case">
+               <head>CASE XXVII. A QUESTION.</head>
+               <argument>
+                  <p>Whether <hi>Baptism</hi> is to be administred by any but the Ordained Ministers of our Lord Jesus Christ?</p>
+               </argument>
+               <p n="1">I WE find no <hi>Commission</hi> or <hi>Permission</hi> from our Lord Jesus Christ, for any to be the Administrators of <hi>Baptism,</hi> except those,
+<pb n="67" facs="tcp:61798:34"/> whose <hi>Work</hi> it is, by His <hi>Commission</hi> to Preach the <hi>Gospel.</hi> Mat. 28. 19.</p>
+               <p>And none have a <hi>Commission</hi> to make the <hi>Preaching of the Gospel</hi> their <hi>work,</hi> but such as are, with the Call of the Faithful thereunto, set apart for that <hi>work.</hi> Rom. 10. 15.</p>
+               <p>
+                  <hi>Baptism</hi> is a <hi>Seal</hi> of the <hi>Covenant.</hi> For any but an <hi>Officer</hi> to apply the <hi>Seal,</hi> in the Name of the Great King of Heaven, is a pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ous Arrogance.</p>
+               <p>
+                  <hi>Baptism</hi> is one of the Evangelical <hi>Mysteries.</hi> And none but <hi>Stewards</hi> in the House of our Lord Jesus Christ, may pretend unto the Dis<g ref="char:EOLhyphen"/>pensation of those <hi>Mysteries.</hi>
+               </p>
+               <p>The Apostolical Writings intimate, That some are <hi>Sent to Baptise.</hi> Hence none are to <hi>Baptise,</hi> but those that are <hi>Sent.</hi>
+               </p>
+               <p n="2">
+                  <hi>II.</hi> A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both the <hi>Primitive</hi> and the <hi>Protestans</hi> Churches, have signified their Dislike of <hi>Bap<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ism</hi> Administred by Common Hands; thus, the <hi>Disorder</hi> and <hi>Confusion,</hi> and the <hi>Contempt</hi> of the Institutions of the Lord Jesus Christ, which would be thereby Introduced, is a sufficient prejudice against it.</p>
+               <p n="3">
+                  <hi>III.</hi> The <hi>Original</hi> of the Allowance and Count<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance given in some Churches, unto undue Administrators of <hi>Baptism,</hi> hath been from gross Errors in the minds of men,
+<pb n="68" facs="tcp:61798:35"/> about the Necessity and Operation of that <hi>Sacrament,</hi> thereof, <hi>Nen privatio, sed contemptus damnat.</hi>
+               </p>
+            </div>
+            <div n="28" type="case">
+               <head>CASE XXVIII. SENTIMENTS;</head>
+               <argument>
+                  <p>About Authorizing Persons to Preach, where there are no Gathered Churches.</p>
+               </argument>
+               <div n="1" type="question">
+                  <head>QUESTION I.</head>
+                  <p>WHether meet persons, designed for the Service of the <hi>Gospel,</hi> in places where no <hi>Churches</hi> are yet Settled, may not and should not, be <hi>Ordained</hi> thereunto?</p>
+                  <argument>
+                     <p>Voted in the Affirmative.</p>
+                  </argument>
+               </div>
+               <div n="3" type="question">
+                  <head>QUESTION II.</head>
+                  <p>Whether it be not Adviseable, that persons thus Designed, be Recommended by the <hi>Churches</hi> of which they are <hi>Members,</hi> unto the adjacent <hi>Eldership</hi> for <hi>Ordination?</hi>
+                  </p>
+                  <argument>
+                     <p>Voted in the Affirmative.</p>
+                  </argument>
+               </div>
+               <div n="3" type="question">
+                  <pb n="69" facs="tcp:61798:35"/>
+                  <head>QUESTION III.</head>
+                  <p>Whether it be Convenient, for Persons to be Employed, in the <hi>Constant Preaching</hi> of the Gospel, without a previous <hi>Examination,</hi> and a Solemn <hi>Separation</hi> for it?</p>
+                  <argument>
+                     <p>Voted in the Negative.</p>
+                  </argument>
+               </div>
+               <div type="proposal">
+                  <head>A PROPOSAL.</head>
+                  <p>WHereas the most Heavy and Wasting <hi>Judgments</hi> of Heaven, upon our Di<g ref="char:EOLhyphen"/>stressed Land, Loudly Call upon us, no longer to Delay the Taking of some hitherto untaken steps towards the REFORMATION of our <hi>Provoking Evils,</hi> and the Recovery of <hi>Practical Religion,</hi> in our Hearts and Lives.</p>
+                  <p>Among other <hi>Expedients</hi> in order thereunto, we cannot but Recommend it, as very Ad<g ref="char:EOLhyphen"/>viseable, That the several <hi>Churches,</hi> having in an INSTRUMENT proper for that purpose, made a CATALOGUE of such Things, as can Indisputably be found amiss among them, do with all seriousness and solemnity pass their VOTES, That they count such Things to be very <hi>Offensive Evils,</hi> and that Renouncing all Dependence on their own strength to avoid such Evils, they Humbly Ask the Help of the
+<pb n="70" facs="tcp:61798:36"/> Divine Grace, to Assist them in watching a<g ref="char:EOLhyphen"/>gainst the said Evils. both in themselves and in one another. And that the <hi>Church Mem<g ref="char:EOLhyphen"/>bers</hi> do often Reflect upon these their AC<g ref="char:EOLhyphen"/>KNOWLEDGMENTS, and PROTESTATI<g ref="char:EOLhyphen"/>ONS, as <hi>Perpetual Monitors</hi> unto them, to pre<g ref="char:EOLhyphen"/>vent the Miscarriages, wherewith too many Professors, are too easily overtaken.</p>
+               </div>
+            </div>
+            <div n="29" type="case">
+               <head>CASE XXIX. A QUESTION.</head>
+               <argument>
+                  <p>Whether n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Persons may be Admitted unto Baptism, but such as are Members of a <hi>Particular Church?</hi>
+                  </p>
+               </argument>
+               <p>It was unanimously Agreed;</p>
+               <p>THat such as do prosess the True <hi>Christian Religion,</hi> and do not by any <hi>Fundamental Error</hi> in Doctrine, or by a <hi>Scandalous Conversa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>n</hi> contradict that Profession; They and their Children, do belong unto the <hi>Visible Church,</hi> and have Right unto <hi>Baptism;</hi> Whether they be Joyned i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fellowship, with a <hi>Particular Church,</hi> or not. [<hi>Their actual and open giving up themselves with their Children, to the Lord, in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Covenant of Grace, is here also supposed, as re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> unto their actual Enjoyment of Baptism.</hi>]</p>
+               <div type="plan">
+                  <pb n="71" facs="tcp:61798:36"/>
+                  <head>A DESIGN.</head>
+                  <p>HAving seriously considered the Methods of Invigorating the <hi>Design</hi> to Record I<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lust<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ious and M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mora<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le Events of <hi>Providence,</hi> through<g ref="char:EOLhyphen"/>ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> t<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is Country; It was Agreed, That there should be Drawn up, conv<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nient PROPO<g ref="char:EOLhyphen"/>SALS, for the forwarding this <hi>Design,</hi> and that these <hi>Proposals</hi> being P<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inted, f<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rther care should be taken, to di<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>per<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e them into the Hand<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l the Ministers throughout the Land; [<hi>which was done accordingly.</hi>]</p>
+               </div>
+               <div type="proposals">
+                  <head>Certain Proposals made by the PRESIDENT and F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>LLOWS of <hi>Harvard C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lledge,</hi> To the Reverend MINISTERS of the Gospel, in the several Churches of <hi>New-England.</hi>
+                  </head>
+                  <p n="1">
+                     <hi>I</hi> TO Observe and Record the more Illu<g ref="char:EOLhyphen"/>strious Discoveries of the Divine <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi> in the Government of the World, is a Design so Holy, so Useful, so justly Approved, that the too general N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>glect of it, in the Churches of God, is as justly to be I amented.</p>
+                  <p n="2">
+                     <hi>II.</hi> For the Redress of that Neglect, although all <hi>Christians</hi> have a Duty Incumbent on them, yet it is in a peculiar manner to be Recom<g ref="char:EOLhyphen"/>mended unto the Ministers of the Gospel, to
+<pb n="72" facs="tcp:61798:37"/> Improve the special Advantages, which are in their Hands, to Obtain and Preserve, the Knowledge of such notable Occurrents, as are <hi>Sought out by all, that have Pleasure in the Great Works of the Lord.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III.</hi> The Things to be Esteemed <hi>Memorable,</hi> are especially, all <hi>Unusual Accidents,</hi> in the <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> or <hi>Earth,</hi> or <hi>Water:</hi> All Wonderful <hi>Deli<g ref="char:EOLhyphen"/>verances</hi> of the Distressed: <hi>Mercies</hi> to the God<g ref="char:EOLhyphen"/>ly: <hi>Judgments</hi> on the Wicked: and more Glo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lous Fulfilments of either the <hi>Promises,</hi> or the <hi>Threatnings,</hi> in the <hi>Scriptures of Truth;</hi> with <hi>Apparitions, P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ssessions, Enchantments,</hi> and all Extraordinary Things, wherein the Existence and Agency of the <hi>Invisible World,</hi> is more sen<g ref="char:EOLhyphen"/>sibly demonstrated.</p>
+                  <p n="4">
+                     <hi>IV.</hi> It is therefore Proposed, That the Mi<g ref="char:EOLhyphen"/>nisters throughout this Land, would Manifest their Pious <hi>Regards, unto the Works of the Lord, and the Operation of His Hands,</hi> by Reviving their Cares to take Written Accounts, of such REMARKABLES; but still well attested with Credible and Sufficient <hi>Witnesses.</hi>
+                  </p>
+                  <p n="5">
+                     <hi>V.</hi> It is desired, That the Accounts thus ta<g ref="char:EOLhyphen"/>ken of these <hi>Remarkables,</hi> may be sent in, unto the PRAESIDENT, or the FELLOWS of the <hi>Colledge;</hi> by whom they shall be carefully Re<g ref="char:EOLhyphen"/>served,
+<pb n="73" facs="tcp:61798:37"/> for such an Use to be made of them, as may by some fit Assembly of Ministers, be judged most Conducing to the Glory of God, and the Service of His People.</p>
+                  <p n="6">
+                     <hi>VI.</hi> Though we doubt not, that <hi>Love to the Name of God,</hi> will be Motive enough unto all Good Men, to Contribute what Assistence they can, unto this Undertaking; yet for further Encouragement, some Singular <hi>Marks of Respect,</hi> shall be Studied, for such Good Men, as will actually assist it, by taking Pains, to Communicate any Important Pas<g ref="char:EOLhyphen"/>sages proper to be Inserted in this Collect<g ref="char:EOLhyphen"/>ion.</p>
+                  <closer>
+                     <signed>Increase Mather</signed>
+                     <hi>Praesident</hi>
+                     <signed>
+                        <list>
+                           <label>Fellowes.</label>
+                           <item>
+                              <list>
+                                 <item>Iames Allen</item>
+                                 <item>Charles Morton</item>
+                                 <item>Samuel Willard</item>
+                                 <item>Cotton Mather</item>
+                                 <item>Iohn Leverett</item>
+                                 <item>William Brattle</item>
+                                 <item>Nehemiah Walter.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </signed>
+                     <dateline>
+                        <hi>CAMBRIDGE</hi>
+                        <date>
+                           <hi>March,</hi> 5th. 1693, 4.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </div>
+            <div n="30" type="case">
+               <pb n="74" facs="tcp:61798:38"/>
+               <head>CASE XXX.</head>
+               <argument>
+                  <p>The Judgment of the Ministers, met at <hi>Boston, May 11. 1699.</hi> Upon a Case addressed unto them, Concerning, <hi>Lotteries.</hi>
+                  </p>
+               </argument>
+               <p n="1">
+                  <hi>I.</hi> GReat is the Difference, between, a <hi>Lottery</hi> set up, by persons acting in a <hi>Private Capacity;</hi> and a <hi>Lottery</hi> set up, by the <hi>Government,</hi> who have power to lay a <hi>Tax</hi> upon the People, but choose to leave unto the more easy Determination of a <hi>Lottery,</hi> the Persons who shall pay the Sum which the Necessities of the Publick require. A <hi>Par<g ref="char:EOLhyphen"/>laimentary Lottery</hi> takes only from the <hi>Voluntary,</hi> what the Government might have demanded, with a more <hi>general Imposition;</hi> and only when the people are plunged into such Distress, that a more <hi>General Imposition</hi> would be grievous to them; and it Employes for the welfare of the Publick, all that is thus Raised by the <hi>Lottery.</hi> Whereas a more <hi>Pri<g ref="char:EOLhyphen"/>vate Lottery,</hi> is managed, by those that have no Antecedent claim unto any thing of their Neighbours, and it is designed meerly for <hi>Private Advantage.</hi>
+               </p>
+               <p n="2">
+                  <hi>II.</hi> It is a principle Embraced among all Well-informed Christians, That no <hi>Calling</hi> is
+<pb n="75" facs="tcp:61798:38"/>
+                  <hi>Lawful,</hi> but what is <hi>Useful</hi> unto Humane So<g ref="char:EOLhyphen"/>ciety, in some of its Interests. Except there be in a <hi>Calling,</hi> some Tendency, to make an Addition unto the Enjoyments and Interests of <hi>Humane Society,</hi> no Christians may set it up. The Oracles of Heaven, tell us, Christians must <hi>Learn to Profess Honest Trades for Ne<g ref="char:EOLhyphen"/>cessary uses.</hi> To set up a <hi>Lottery</hi> is to set up a <hi>Calling.</hi> But though this or that particular man may be a Gaine<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; yet it would puzzl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any man to tell, what Necessary, or Conve<g ref="char:EOLhyphen"/>nient <hi>Uses,</hi> of Humane Society, where the <hi>Lottery</hi> is opened, are at all Served. The <hi>Minds,</hi> the <hi>Bodies,</hi> the <hi>Riches,</hi> the <hi>Defence,</hi> or the Regular <hi>Delights,</hi> of Humane Society, have by this <hi>Lottery,</hi> no Addition made unto them.</p>
+               <p n="3">
+                  <hi>III.</hi> Not only the <hi>Undertakers</hi> of a <hi>Lottery,</hi> have a certain Gain unto themselves, from Humane Society; but so likewise have They, who in the <hi>Lottery,</hi> draw the <hi>Tickets of Benefit;</hi> and every one that Ventures, doth it with a Desire to fall upon those <hi>Tickets</hi> in the Draw<g ref="char:EOLhyphen"/>ing. 'Tis very certain, That for this <hi>Benefit,</hi> none of these can p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etend, that they do any one Thing <hi>Beneficial</hi> to Humane Society. They only Hire the Undertakers, to Transfer the Estates of others unto them, without any Service done by them, to the Interests of any
+<pb n="76" facs="tcp:61798:39"/> others under Heaven. But we do not judge This pleasing unto God, that mens Rights be ordinarily Transferred from one to another, meerly in a way of Reference to Divine Pro<g ref="char:EOLhyphen"/>vidence, without considering any Service there<g ref="char:EOLhyphen"/>in intended unto the Community, or any Help to mankind in its true. Interests. Nor is venturing in a <hi>Lottery</hi> on shore, of the same Nature with venturing in a <hi>Merchandise</hi> at Sea.</p>
+               <p n="4">
+                  <hi>IV.</hi> In a <hi>Lottery</hi> so contrived, that when all the <hi>Prizes</hi> be drawn, they do not make up, and fetch out, near the whole Sum that was deposited by the <hi>Adventurers,</hi> there is a plain <hi>Cheat</hi> upon the People. The <hi>Undertakers</hi> in such a <hi>Lottery,</hi> only Resolve to pillage the people of such a considerable Sum; and In<g ref="char:EOLhyphen"/>vite a Number to Assist them in their Action, with <hi>Hopes</hi> of going Shares with them in the Advantage; and such is the Corruption of mankind, that the meer <hi>Hopes</hi> of getting the Riches of other men, without the doing of any Service to them for it, will Engage men to run the Hazard of being Loosers.</p>
+               <p>Upon the whole; We cannot Approve it, that any particular persons do either under<g ref="char:EOLhyphen"/>take, or countenance any such <hi>Lotteries,</hi> as have been sometimes practised in other places. And the danger which there is, lest the Lusts
+<pb n="77" facs="tcp:61798:39"/> of men, once engaged in these <hi>Lotteries,</hi> proceed unto a multitude of other Disorders, to the Ruine of their Employments and their Families, does further move us, to withold our Approbation from them.</p>
+            </div>
+         </div>
+         <div type="oath">
+            <head>AT. A General Meeting of MINISTERS FROM Diverse parts of the Province of the <hi>Massachusetts Bay;</hi> Assembled at <hi>Boston,</hi> May 27. 1697.</head>
+            <argument>
+               <p>[<hi>The Following Instrument, was generally Signed; Which is here Inserted and Published,</hi> In Perpetuam Rei Memoriam.]</p>
+            </argument>
+            <p>WE Ministers of the Gospel, in the Churches of <hi>New-England,</hi> being made Sensible of the Tendencies, which there are among us, towards Deviations from the Good Order, wherein our Churches have according to the Word of the Lord Jesus Christ, been happily Established and Continued:</p>
+            <pb n="78" facs="tcp:61798:40"/>
+            <p>Do here Declare and Subscribe, our full Purpose, by the Help of our Great Lord, to mentain in our several Places▪ the <hi>Purity,</hi> and <hi>Fellowship,</hi> and <hi>Liberties</hi> of our <hi>Churches,</hi> upon all chose Principles, which we appre<g ref="char:EOLhyphen"/>hend Essential to the <hi>Congregational Church-Discipline,</hi> hitherto Pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>essed in these Churches. And, that we will in matters of Moment calling for it, mutually Advise, and Assist, and Hearken to, each other in the Lord.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Increase Mather</item>
+                     <item>William Hubbard</item>
+                     <item>Charles Morton</item>
+                     <item>Iames Allen</item>
+                     <item>Samuel Torrep</item>
+                     <item>Samuel Willard</item>
+                     <item>Samuel Cheever</item>
+                     <item>Moses Fiske</item>
+                     <item>Ioseph Estabroo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t</item>
+                     <item>Iabez Fox</item>
+                     <item>Ieremiah Shepard</item>
+                     <item>Thomas Clarlt</item>
+                     <item>Peter Thacher.</item>
+                     <item>&amp;c. &amp;c. &amp;c. With many more.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:61798:40"/>
+            <head>ERRATA.</head>
+            <p>PAGE 28. line 15. for reserved read referred. Pag. 43. 1. 12. f. Word r. Work.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
